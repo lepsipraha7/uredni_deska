@@ -3558,5 +3558,35 @@
     "category": null,
     "created": "2019-04-23 10:06:07",
     "category_name": "Doprava"
+  },
+  {
+    "id": "1737",
+    "official_desk_name": "Opatření obecné povahy - stanovení místní úpravy provozu na pozemní komunikaci Přístavní 39, Praha 7",
+    "official_desk_date": "2019-04-23",
+    "official_desk_date_until": "2019-05-09",
+    "description": "<p>Opatření obecné povahy</p>\n<p><span style=\"text-decoration: underline;\"><strong>Stanovení místní úpravy provozu na pozemní komunikaci Přístavní 39, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení bude provedena v termínu od <strong>1.7. 2019 trvale</strong></p>",
+    "category": null,
+    "created": "2019-04-23 10:10:54",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1738",
+    "official_desk_name": "Dražební vyhláška 203 EX 07108/15-89 dražba nemovité věci",
+    "official_desk_date": "2019-05-13",
+    "official_desk_date_until": "2019-06-19",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška 203 EX 07108/15-89 dražba nemovité věci</strong> </span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\">Zahájení elektronické dražby: <strong>dne 19.6.2019 v 13.00 hod.</strong></span></p>\n<p>Ukončení elektronické dražby: dne 19.6.2019 v 14.00 hod.</p>",
+    "category": null,
+    "created": "2019-04-23 10:27:02",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "1739",
+    "official_desk_name": "Usnesení zastavení řízení - Obnova vodovodního řadu, ul. U Výstaviště, k.ú. Holešovice, Praha 7",
+    "official_desk_date": "2019-04-23",
+    "official_desk_date_until": "2019-05-09",
+    "description": "<p>USNESENÍ</p>\n<p>ZASTAVENÍ ŘÍZENÍ</p>\n<p>&nbsp;</p>\n<p>Stavba: <span style=\"text-decoration: underline;\"><strong>Obnova vodovodního řadu, ul. U Výstaviště, k.ú. Holešovice, Praha 7</strong></span></p>",
+    "category": null,
+    "created": "2019-04-23 10:43:48",
+    "category_name": "Stavební úřad"
   }
 ]
