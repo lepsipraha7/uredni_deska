@@ -3518,5 +3518,45 @@
     "category": null,
     "created": "2019-04-18 13:04:32",
     "category_name": "Doprava"
+  },
+  {
+    "id": "1733",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Sparty, Praha 7",
+    "official_desk_date": "2019-04-23",
+    "official_desk_date_until": "2019-05-09",
+    "description": "<p>Opatření obecné povahy</p>\n<p><span style=\"text-decoration: underline;\"><strong>Stanovení přechodné úpravy provozu na pozemní komunikaci U Sparty, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\">Termín pro stanovení přechodné úpravy:</span></p>\n<p><strong>4.5.2019      13.00 hod. - 21.00 hod.</strong></p>\n<p><strong>11.5.2019     15.00 hod. - 23.00 hod.</strong></p>\n<p><strong>19.5.2019    11.00 hod. - 18.00 hod.</strong></p>",
+    "category": null,
+    "created": "2019-04-23 09:44:36",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1734",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Průhonu",
+    "official_desk_date": "2019-04-23",
+    "official_desk_date_until": "2019-05-09",
+    "description": "<p>Opatření obecné povahy</p>\n<p><span style=\"text-decoration: underline;\"><strong>Stanovení přechodné úpravy provozu na pozemní komunikaci U Průhonu</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\">Instalace dopravního značení a zařízení bude provedena v termínu:</span></p>\n<p><strong>13.5.2019 - 26.5.2019</strong></p>",
+    "category": null,
+    "created": "2019-04-23 09:50:17",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1735",
+    "official_desk_name": "Veřejná vyhláška  - oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek",
+    "official_desk_date": "2019-04-23",
+    "official_desk_date_until": "2019-05-09",
+    "description": "<p>Veřejná vyhláška</p>\n<p><span style=\"text-decoration: underline;\"><strong>Oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek</strong> </span></p>\n<p>&nbsp;</p>\n<p>Vyznačení vodorovného dopravního značení V12c na obrubu chodníku na místní komunikaci <span style=\"text-decoration: underline;\"><strong>V Přístavu, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\">Instalace dopravního značení a zařízení bude provedena k 31.5. 2019 s účinností od <strong>1.6. 2019 trvale.</strong></span></p>",
+    "category": null,
+    "created": "2019-04-23 09:59:00",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1736",
+    "official_desk_name": "Opatření obecné povahy - stanovení místní úpravy provozu na pozemní komunikaci Milady Horákové 64",
+    "official_desk_date": "2019-04-23",
+    "official_desk_date_until": "2019-05-09",
+    "description": "<p>Opatření obecné povahy</p>\n<p><span style=\"text-decoration: underline;\"><strong>Stanovení místní úpravy provozu na pozemní komunikaci Milady Horákové 64, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení bude provedena v termínu od <strong>1.7. 2019 trvale</strong></p>",
+    "category": null,
+    "created": "2019-04-23 10:06:07",
+    "category_name": "Doprava"
   }
 ]
