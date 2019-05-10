@@ -3998,5 +3998,35 @@
     "category": null,
     "created": "2019-05-09 10:22:17",
     "category_name": "Výběrové řízení"
+  },
+  {
+    "id": "1781",
+    "official_desk_name": "Rozhodnutí o umístění stavby nazvané Merkuria - novostavba admin budovy Praha, Holešovice č.p. 286, Argentinská 38",
+    "official_desk_date": "2019-05-10",
+    "official_desk_date_until": "2019-05-27",
+    "description": "<p><span style=\"text-decoration: underline;\">Rozhodnutí o umístění stavby</span></p>\n<p>nazvané:</p>\n<p><span style=\"text-decoration: underline;\"><strong>Merkuria - novostavba admin budovy Praha, Holešovice č.p. 286, Argentinská 38</strong></span></p>",
+    "category": null,
+    "created": "2019-05-10 10:41:20",
+    "category_name": "Stavební úřad"
+  },
+  {
+    "id": "1782",
+    "official_desk_name": "Veřejná vyhláška - Oznámení o uložení písemnosti Josef Ouředníček",
+    "official_desk_date": "2019-05-13",
+    "official_desk_date_until": "2019-05-30",
+    "description": "<p>Veřejná vyhláška</p>\n<p><span style=\"text-decoration: underline;\"><strong>Oznámení o uložení písemnosti Josef Ouředníček</strong></span></p>\n<p>&nbsp;</p>\n<p>druh písemnosti: <strong>č.j. 699063/19/AB ze dne 29.4.2019 - OZP - R</strong></p>",
+    "category": null,
+    "created": "2019-05-10 10:49:41",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "1783",
+    "official_desk_name": "Záměr na pronájem nebytové jednotky č. 1116/102 v domě Janovského 10/1116, Praha 7",
+    "official_desk_date": "2019-05-11",
+    "official_desk_date_until": "2019-05-27",
+    "description": "<p>Oznámení a zveřejnění záměru</p>\n<p><span style=\"text-decoration: underline;\"><strong>Záměr na pronájem nebytové jednotky č. 1116/102 v domě Janovského 10/1116, Praha 7</strong></span></p>",
+    "category": null,
+    "created": "2019-05-10 11:02:17",
+    "category_name": "Majetek"
   }
 ]
