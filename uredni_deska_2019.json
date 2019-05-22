@@ -2973,7 +2973,7 @@
     "id": "1678",
     "official_desk_name": "Dražební vyhláška  067 EX 281943/09-307",
     "official_desk_date": "2019-04-15",
-    "official_desk_date_until": "2019-05-23",
+    "official_desk_date_until": "2019-05-21",
     "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška  067 EX 281943/09-307</strong> </span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\">Elektronická dražba je stanovena na den 23.5.2019 v 13.00 hod. na dražebním portálu: www.exdrazby.cz</span></p>\n<p><span style=\"text-decoration: underline;\">Ukončení elektronické dražby dne 23.5.2019 v 14.00 hod.</span></p>",
     "category": null,
     "created": "2019-04-04 13:57:45",
@@ -3873,7 +3873,7 @@
     "id": "1768",
     "official_desk_name": "Dražební vyhláška  146 EX 420/17-80 dražba nemovité věci",
     "official_desk_date": "2019-05-06",
-    "official_desk_date_until": "2019-06-27",
+    "official_desk_date_until": "2019-05-15",
     "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška  146 EX 420/17-80 dražba nemovité věci</strong> </span></p>\n<p>&nbsp;</p>\n<p>Zahájení elektronické dražby: <strong>dne 27.6.2019 v 10:00 hod.</strong></p>\n<p>Ukončení elektronické dražby: <strong>nejdříve dne 27.6.2019 v 10:30 hod.</strong></p>",
     "category": null,
     "created": "2019-05-03 11:21:58",
@@ -4038,5 +4038,375 @@
     "category": null,
     "created": "2019-05-10 11:27:33",
     "category_name": "Majetek"
+  },
+  {
+    "id": "1785",
+    "official_desk_name": "Dražební vyhláška  115 EX 178/09-157 dražba nemovité věci",
+    "official_desk_date": "2019-05-15",
+    "official_desk_date_until": "2019-06-19",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška  115 EX 178/09-157 dražba nemovité věci</strong></span></p>\n<p>&nbsp;</p>\n<p>Zahájení elektronické dražby je stanoveno na den: <span style=\"text-decoration: underline;\"><strong>19.6.2019 v 11:00 hod.</strong></span></p>\n<p>Ukončení elektronické dražby je stanoveno na den: <span style=\"text-decoration: underline;\"><strong>19.6.2019 v 12:00 hod.</strong></span></p>",
+    "category": null,
+    "created": "2019-05-13 10:37:42",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "1786",
+    "official_desk_name": "Dražební vyhláška  203 EX 19167/16-86 dražba nemovité věci",
+    "official_desk_date": "2019-06-03",
+    "official_desk_date_until": "2019-07-10",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška  203 EX 19167/16-86 dražba nemovité věci</strong></span></p>\n<p>&nbsp;</p>\n<p>Zahájení elektronické dražby:<span style=\"text-decoration: underline;\"><strong> dne 10.7.2019 v 13:00 hod.</strong></span></p>\n<p>Ukončení elektronické dražby: <span style=\"text-decoration: underline;\"><strong>dne 10.7.2019 v 14:00 hod.</strong></span></p>",
+    "category": null,
+    "created": "2019-05-13 10:40:39",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "1787",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné  úpravy provozu na pozemní komunikaci Kostelní 42, Praha 7 (kulturní akce - 1000 mil Československých)",
+    "official_desk_date": "2019-05-13",
+    "official_desk_date_until": "2019-05-29",
+    "description": "<p>Opatření obecné povahy</p>\n<p><span style=\"text-decoration: underline;\"><strong>Stanovení přechodné  úpravy provozu na pozemní komunikaci Kostelní 42</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\">Instalace dopravního značení a zařízení bude provedena v termínu</span>: <span style=\"text-decoration: underline;\"><strong>16.6.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-05-13 10:51:49",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1788",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné  úpravy provozu na pozemní komunikaci Kostelní 42, Praha 7 (kulturní akce - Muzejní noc)",
+    "official_desk_date": "2019-05-13",
+    "official_desk_date_until": "2019-05-29",
+    "description": "<p>Opatření obecné povahy</p>\n<p><span style=\"text-decoration: underline;\"><strong>Stanovení přechodné  úpravy provozu na pozemní komunikaci Kostelní 42</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\">Instalace dopravního značení a zařízení bude provedena v termínu</span>:<strong><span style=\"text-decoration: underline;\"> 8.6.2019</span></strong></p>",
+    "category": null,
+    "created": "2019-05-13 10:54:12",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1789",
+    "official_desk_name": "Výzva - Oznámení výběrového řízení MČ Praha 7 - k podání nabídky na veřejnou zakázku malého rozsahu s názvem \\\"Půdní vestavba bytů U Uranie 5 - Změna ohřevu TV\\\"",
+    "official_desk_date": "2019-05-13",
+    "official_desk_date_until": "2019-05-22",
+    "description": "<p>Předmětem plnění této veřejné zakázky malého rozsahu jsou stavební práce, spočívající v úpravě silnoproudých a slaboproudých rozvodů, vodovodních a plynových rozvodů pro změnu ohřevu teplé vody a instalaci domovních telefonů ve stávajících bytech a v rekonstrukci rozvodů páteřní elektroinstalace v prostoru domovního schodiště pro budoucí půdní vestavbu bytů a budoucí stavbu výtahu v bytovém domě č. p. 45, na adrese U Uranie 45/5, 170 00 Praha 7, Holešovice.</p>\n<p>Předmět plnění je vymezen touto Výzvou k podání nabídky (dále jen „výzva“), návrhem Smlouvy o dílo č. 2019/OIVZ/011 (dále jen smlouva), která  je Přílohou č. 2 této výzvy. Předmět plnění této zakázky je dále vymezen technickými podmínkami zadavatele, které jsou uvedeny v projektové dokumentaci s názvem: „Příprava pro půdní vestavbu bytů U Uranie 45/5, Praha 7 – změna ohřevu TV – osazení el. ohřívačů ve stávajících bytech“. Tato projektová dokumentace je ke stažení na Úřední desce MČ P7 po dobu trvání lhůty pro podání nabídek, včetně soupisu stavebních prací, dodávek a služeb, který je přílohou č. 3 této výzvy.</p>",
+    "category": null,
+    "created": "2019-05-13 17:27:58",
+    "category_name": "Veřejné zakázky"
+  },
+  {
+    "id": "1790",
+    "official_desk_name": "Opatření obecné povahy - Stanovení místní úpravy provozu na pozemních komunikacích v ulici Na Šachtě, Praha 7",
+    "official_desk_date": "2019-05-14",
+    "official_desk_date_until": "2019-05-30",
+    "description": "<p>Opatření obecné povahy</p>\n<p><span style=\"text-decoration: underline;\"><strong>Stanovení místní úpravy provozu na pozemních komunikacích v ulici Na Šachtě, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení bude provedena v termínu od <span style=\"text-decoration: underline;\"><strong>16.7.2019 trvale</strong></span></p>",
+    "category": null,
+    "created": "2019-05-14 13:09:30",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1791",
+    "official_desk_name": "Opatření obecné povahy - Stanovení místní úpravy provozu na pozemních komunikacích v ulici V Podhoří 3e, Praha 7",
+    "official_desk_date": "2019-05-14",
+    "official_desk_date_until": "2019-05-30",
+    "description": "<p>Opatření obecné povahy</p>\n<p><span style=\"text-decoration: underline;\"><strong>Stanovení místní úpravy provozu na pozemních komunikacích v ulici V Podhoří 3e, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení bude provedena v termínu od<span style=\"text-decoration: underline;\"><strong> 16.7.2019 trvale</strong></span></p>",
+    "category": null,
+    "created": "2019-05-14 13:22:00",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1792",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Bubenské nábřeží a Tusarova",
+    "official_desk_date": "2019-05-14",
+    "official_desk_date_until": "2019-05-30",
+    "description": "<p>Opatření obecné povahy</p>\n<p><span style=\"text-decoration: underline;\"><strong>Stanovení přechodné úpravy provozu na pozemní komunikaci Bubenské nábřeží a Tusarova</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <span style=\"text-decoration: underline;\"><strong>17.5. - 24.5.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-05-14 13:31:20",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1793",
+    "official_desk_name": "Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci K Bohnicích, K Pazderkám, Praha 7",
+    "official_desk_date": "2019-05-14",
+    "official_desk_date_until": "2019-05-30",
+    "description": "<p>Opatření obecné povahy</p>\n<p><span style=\"text-decoration: underline;\"><strong>Stanovení přechodné úpravy provozu na pozemní komunikaci K Bohnicích, K Pazderkám, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu:</p>\n<p><span style=\"text-decoration: underline;\"><strong>od 1.6.2019 do 15.8.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-05-14 13:39:30",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1794",
+    "official_desk_name": "Veřejná vyhláška - Oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek a námitek (K Bohmicím, K Pazderkám, Praha 7)",
+    "official_desk_date": "2019-05-14",
+    "official_desk_date_until": "2019-05-30",
+    "description": "<p>Veřejná vyhláška</p>\n<p><span style=\"text-decoration: underline;\"><strong>Oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek a námitek (K Bohmicím, K Pazderkám, Praha 7)</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena k 15.8.2019 s účinností <span style=\"text-decoration: underline;\"><strong>od 16.8.2019 trvale</strong></span></p>",
+    "category": null,
+    "created": "2019-05-14 13:43:27",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1795",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Pod Lisem",
+    "official_desk_date": "2019-05-14",
+    "official_desk_date_until": "2019-05-30",
+    "description": "<p>Opatření obecné povahy </p>\n<p><span style=\"text-decoration: underline;\"><strong> stanovení přechodné úpravy provozu na pozemní komunikaci Pod Lisem</strong> </span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu<span style=\"text-decoration: underline;\"><strong> od 1.6.2019 - 15.8.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-05-14 14:06:19",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1796",
+    "official_desk_name": "Veřejná vyhláška - oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek",
+    "official_desk_date": "2019-05-14",
+    "official_desk_date_until": "2019-05-30",
+    "description": "<p>Veřejná vyhláška </p>\n<p><span style=\"text-decoration: underline;\"><strong> oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek - Pod Lisem</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena k 15.8.2019 s účinností<span style=\"text-decoration: underline;\"><strong> od 16.8.2019 trvale.</strong></span></p>",
+    "category": null,
+    "created": "2019-05-14 14:14:32",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1797",
+    "official_desk_name": "Oznámení o vyhlášení veřejné zakázky s názvem \\\"ZŠ TGM reko půdního prostoru - boční křídla\\\"",
+    "official_desk_date": "2019-05-15",
+    "official_desk_date_until": "2019-05-30",
+    "description": "<p>Dovolujeme si Vás informovat, že veřejná zakázka s názvem <strong>\"ZŠ TGM reko půdního prostoru - boční křídla\"</strong>, vyhlášená dle zákona č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů, byla zveřejněna na Profilu zadavatele na adrese:</p>\n<p style=\"text-align: center;\">https://praha7.profilzadavatele-vz.cz/P19V10000423</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-05-15 11:01:16",
+    "category_name": "Veřejné zakázky"
+  },
+  {
+    "id": "1798",
+    "official_desk_name": "Dražební vyhláška č. A/D3/2019",
+    "official_desk_date": "2019-05-15",
+    "official_desk_date_until": "2019-06-17",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška č. A/D3/2019</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\">Den dražby se stanovuje na den 17.6.2019 od 10:00 hod.</span></p>",
+    "category": null,
+    "created": "2019-05-15 13:59:27",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "1799",
+    "official_desk_name": "Dražební vyhláška - konání dne 4.6.2019",
+    "official_desk_date": "2019-05-15",
+    "official_desk_date_until": "2019-06-04",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška</strong></span></p>\n<p>&nbsp;</p>\n<p>Zahájení dražby dne <strong>4.6.2019 v 8:30 hod.</strong></p>\n<p>Ukončení dražby dne <strong>4.6.2019 v 10:00 hod.</strong></p>",
+    "category": null,
+    "created": "2019-05-15 14:13:37",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "1800",
+    "official_desk_name": "Oznámení o kácení dřevin rostoucích mimo les v 18. a 19. týdnu roku 2019",
+    "official_desk_date": "2019-05-15",
+    "official_desk_date_until": "2019-05-31",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o kácení dřevin rostoucích mimo les v 18. a 19. týdnu roku 2019</strong></span></p>",
+    "category": null,
+    "created": "2019-05-15 14:24:20",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "1801",
+    "official_desk_name": "Usnesení o zrušení dražební vyhlášky č. 146-EX 420/17-86 nařízené na den 27.6.2019",
+    "official_desk_date": "2019-05-15",
+    "official_desk_date_until": "2019-06-27",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Usnesení o zrušení dražební vyhlášky č. 146-EX 420/17-86 nařízené na den 27.6.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-05-15 14:39:03",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "1802",
+    "official_desk_name": "Dražební vyhláška č. 134 EX 07207/18 - 145",
+    "official_desk_date": "2019-05-16",
+    "official_desk_date_until": "2019-06-17",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška č. 134 EX 07207/18 - 145</strong></span></p>\n<p>&nbsp;</p>\n<p>Dražební jednání se koná dne <span style=\"text-decoration: underline;\"><strong>17.6.2019 v 10.00 hod.</strong></span></p>",
+    "category": null,
+    "created": "2019-05-16 10:38:44",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "1803",
+    "official_desk_name": "Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci U Studánky, Praha 7",
+    "official_desk_date": "2019-05-16",
+    "official_desk_date_until": "2019-06-03",
+    "description": "<p>Opatření obecné povahy</p>\n<p><span style=\"text-decoration: underline;\"><strong> Stanovení přechodné úpravy provozu na pozemní komunikaci U Studánky, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu<span style=\"text-decoration: underline;\"><strong> 28.5.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-05-16 13:55:13",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1804",
+    "official_desk_name": "Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci Letenské náměstí, Praha 7",
+    "official_desk_date": "2019-05-16",
+    "official_desk_date_until": "2019-06-03",
+    "description": "<p>Opatření obecné povahy </p>\n<p><span style=\"text-decoration: underline;\"><strong> Stanovení přechodné úpravy provozu na pozemní komunikaci Letenské náměstí, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <span style=\"text-decoration: underline;\"><strong>7.6.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-05-16 14:00:49",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1805",
+    "official_desk_name": "Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci Argentinská, Plynární, V zákoutí, Praha 7",
+    "official_desk_date": "2019-05-17",
+    "official_desk_date_until": "2019-06-03",
+    "description": "<p>Opatření obecné povahy</p>\n<p><span style=\"text-decoration: underline;\"><strong>Stanovení přechodné úpravy provozu na pozemní komunikaci Argentinská, Plynární, V zákoutí, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <span style=\"text-decoration: underline;\"><strong>13.6.2019 - 31.7.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-05-17 09:32:26",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1806",
+    "official_desk_name": "Veřejná vyhláška - Oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek",
+    "official_desk_date": "2019-05-17",
+    "official_desk_date_until": "2019-06-03",
+    "description": "<p>Veřejná vyhláška</p>\n<p><span style=\"text-decoration: underline;\"><strong> Oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu nejpozději od <span style=\"text-decoration: underline;\"><strong>1.8.2019 trvale</strong> </span></p>",
+    "category": null,
+    "created": "2019-05-17 09:38:32",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1807",
+    "official_desk_name": "Veřejná vyhláška - Oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek",
+    "official_desk_date": "2019-05-17",
+    "official_desk_date_until": "2019-06-03",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška </strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong>Oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu nejpozději <span style=\"text-decoration: underline;\"><strong>od 1.8.2019 trvale</strong></span></p>",
+    "category": null,
+    "created": "2019-05-17 09:48:54",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1808",
+    "official_desk_name": "Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci Jana Zajíce, Praha 7",
+    "official_desk_date": "2019-05-17",
+    "official_desk_date_until": "2019-06-03",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy</strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong> Stanovení přechodné úpravy provozu na pozemní komunikaci Jana Zajíce, Praha</strong></span><span style=\"text-decoration: underline;\"><strong> 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu<span style=\"text-decoration: underline;\"><strong> 22.5. - 31.7.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-05-17 09:53:35",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1809",
+    "official_desk_name": "Oznámení zahájení územního řízení - Modernizace trati Praha - Bubny (včetně) - Praha - Výstaviště (včetně)",
+    "official_desk_date": "2019-05-17",
+    "official_desk_date_until": "2019-06-18",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení zahájení územního řízení</strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong>Modernizace trati Praha - Bubny (včetně) - Praha - Výstaviště (včetně)</strong></span></p>\n<p>&nbsp;</p>\n<p>Veřejné ústní jednání se nařizuje na den</p>\n<p><span style=\"text-decoration: underline;\"><strong>21.června 2019 (pátek) v 9:00 hod.</strong></span></p>\n<p>&nbsp;</p>\n<p>Místo konání: <span style=\"text-decoration: underline;\"><strong>Zasedací místnost č. dv. 225, Úřad městské části Praha 7, nábř. Kpt. Jaroše 1000/7, Praha 7</strong></span></p>",
+    "category": null,
+    "created": "2019-05-17 10:28:26",
+    "category_name": "Stavební úřad"
+  },
+  {
+    "id": "1810",
+    "official_desk_name": "Veřejná vyhláška - Oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek",
+    "official_desk_date": "2019-05-20",
+    "official_desk_date_until": "2019-06-05",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška</strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong>  Oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek</strong></span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena k 31.7.2019 s účinností od<span style=\"text-decoration: underline;\"><strong> 1.8.2019 trvale</strong></span></p>",
+    "category": null,
+    "created": "2019-05-20 10:18:41",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1811",
+    "official_desk_name": "Veřejná vyhláška - Oznámení o zahájení řízení o vydání změny  Z 2787/00 vlny IV celoměstsky významných změn územního plánu sídelního útvaru hl.m. Prahy",
+    "official_desk_date": "2019-05-28",
+    "official_desk_date_until": "2019-07-04",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška</strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong> Oznámení o zahájení řízení o vydání změny  Z 2787/00 vlny IV celoměstsky významných změn územního plánu sídelního útvaru hl.m. Prahy</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\"><strong>Opakované veřejné projednání se bude konat 27.6.2019 od 10.00 hod. v sále CAMP - amfiteátr, Vyšehradská 51, Praha 2</strong></span></p>",
+    "category": null,
+    "created": "2019-05-20 10:35:14",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "1812",
+    "official_desk_name": "Veřejná vyhláška - Oznámení o zahájení řízení o vydání změny  Z 2812/00 a Z 2822/00 vlny IV celoměstsky významných změn územního plánu sídelního útvaru hl.m. Prahy",
+    "official_desk_date": "2019-05-28",
+    "official_desk_date_until": "2019-07-04",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška  </strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong>Oznámení o zahájení řízení o vydání změny  Z 2812/00 a Z 2822/00 vlny IV celoměstsky významných změn územního plánu sídelního útvaru hl.m. Prahy</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\"><strong>Veřejné projednání se bude konat dne 27.6.2019 od 11.00 hod. v sále CAMP - amfiteátr, Vyšehradská 51, Praha 2</strong></span></p>",
+    "category": null,
+    "created": "2019-05-20 10:48:56",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "1813",
+    "official_desk_name": "Dražební vyhláška - č.j. 094 EX 02319/19-076",
+    "official_desk_date": "2019-05-21",
+    "official_desk_date_until": "2019-06-26",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška </strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong> č.j. 094 EX 02319/19-076</strong></span></p>\n<p>&nbsp;</p>\n<p>Konání dražby: <span style=\"text-decoration: underline;\"><strong>26.6.2019 v 9.30 hod.</strong></span></p>",
+    "category": null,
+    "created": "2019-05-20 13:32:19",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "1814",
+    "official_desk_name": "Oznámení o kácení dřevin rostoucích mimo les (20 týden 2019)",
+    "official_desk_date": "2019-05-20",
+    "official_desk_date_until": "2019-06-05",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o kácení dřevin rostoucích mimo les (20 týden 2019)</strong></span></p>",
+    "category": null,
+    "created": "2019-05-20 14:35:18",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "1815",
+    "official_desk_name": "Oznámení o výběrovém řízení na pozici - Projektový manažer - OVPŘ se prodlužuje do 2.června 2019",
+    "official_desk_date": "2019-05-20",
+    "official_desk_date_until": "2019-06-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o výběrovém řízení na pozici - Projektový manažer</strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong>OVPŘ se prodlužuje do 2.června 2019</strong></span></p>\n<p>&nbsp;</p>\n<p>Náplň práce :</p>\n<p>Příprava projektových záměrů a žádostí.</p>\n<p>Řízení projektu ve všech jeho fázích, vedení a řízení projektového týmu, stanovení časového a finančního plánu realizace projektu, komunikace s řídícím orgánem, řízení změn v projektu, zajištění předání výstupu z projektu.</p>\n<p>Koordinace postupů prací a návaznost činností v jednotlivých úkolech, pravidelné reportování o stavu realizace projektu včetně zpráv o realizaci projektu, zpracování kompletní dokumentace k projektu, spolupráce na plnění monitorovacích indikátorů projektu.</p>\n<p>Spolupráce na finančním plánování, řízení a controllingu projektu (sestavování rozpočtu, sledování čerpání rozpočtu, tvorba finančního plánu, příprava žádosti o platbu, součinnost při externích kontrolách, nastavování vnitřních kontrolních mechanismů).</p>\n<p>Spolupráce na implementaci projektových výstupů</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-05-20 16:03:28",
+    "category_name": "Výběrové řízení"
+  },
+  {
+    "id": "1816",
+    "official_desk_name": "Dražební vyhláška - č.j. 094 EX 50011/19-4 - nemovité věci",
+    "official_desk_date": "2019-06-24",
+    "official_desk_date_until": "2019-07-25",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška - č.j. 094 EX 50011/19-4 - nemovité věci</strong></span></p>\n<p>&nbsp;</p>\n<p>Elektronická dražba bude zahájena dne<span style=\"text-decoration: underline;\"><strong> 25.7.2019 v 10.00 hod.</strong></span></p>\n<p>Elektronická dražba bude skončena nejdříve dne <span style=\"text-decoration: underline;\"><strong>25.7.2019 v 11.00 hod.</strong></span></p>",
+    "category": null,
+    "created": "2019-05-21 09:29:19",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "1817",
+    "official_desk_name": "Dražební vyhláška - č.j. 067 EX 281943/09-355 - ZRUŠENÍ",
+    "official_desk_date": "2019-05-21",
+    "official_desk_date_until": "2019-05-24",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška - č.j. 067 EX 281943/09-355 - ZRUŠENÍ</strong></span></p>",
+    "category": null,
+    "created": "2019-05-21 09:45:32",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "1818",
+    "official_desk_name": "Veřejná vyhláška - Příkaz (Obviněný Robert Chadraba)",
+    "official_desk_date": "2019-05-21",
+    "official_desk_date_until": "2019-06-06",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - Příkaz (Obviněný Robert Chadraba)</strong></span></p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-05-21 10:17:24",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1819",
+    "official_desk_name": "Opatření obecné povahy - Stanovení místní  úpravy provozu na pozemní komunikaci Trojská u objektu čp. 389",
+    "official_desk_date": "2019-05-21",
+    "official_desk_date_until": "2019-06-06",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy </strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong> Stanovení místní  úpravy provozu na pozemní komunikaci Trojská u objektu čp. 389</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení bude provedena v termínu od<span style=\"text-decoration: underline;\"><strong> 1.8.2019 - TRVALE</strong></span></p>",
+    "category": null,
+    "created": "2019-05-21 10:24:55",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1820",
+    "official_desk_name": "Oznámení zahájení stavebního řízení a pozvání k ústnímu jednání - Půdní vestavba a nástavba bytového domu Schnirchova 26",
+    "official_desk_date": "2019-05-21",
+    "official_desk_date_until": "2019-06-06",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení zahájení stavebního řízení a pozvání k ústnímu jednání </strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong> Půdní vestavba a nástavba bytového domu Schnirchova 26</strong></span></p>\n<p>&nbsp;</p>\n<p>Zahájení stavebního řízení a projednání žádosti se nařizuje na den <span style=\"text-decoration: underline;\"><strong>18.června 2019 v 9.00 hod.</strong></span></p>\n<p>Místo konání: před vstupem do domu Schnirchova 26</p>",
+    "category": null,
+    "created": "2019-05-21 11:35:04",
+    "category_name": "Stavební úřad"
+  },
+  {
+    "id": "1821",
+    "official_desk_name": "Usnesení - Zastavení řízení na stavbu: stav. úpravy byt. domu č.p. 651, U Studánky 14, Praha 7",
+    "official_desk_date": "2019-05-21",
+    "official_desk_date_until": "2019-06-06",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Usnesení - Zastavení řízení na stavbu: stav. úpravy byt. domu č.p. 651, U Studánky 14, Praha 7</strong></span></p>",
+    "category": null,
+    "created": "2019-05-21 11:41:43",
+    "category_name": "Stavební úřad"
   }
 ]
