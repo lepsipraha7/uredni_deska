@@ -4608,5 +4608,15 @@
     "category": null,
     "created": "2019-05-29 12:03:16",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "1843",
+    "official_desk_name": "Rozpočtová opatření - květen 2019",
+    "official_desk_date": "2019-05-29",
+    "official_desk_date_until": "2020-03-31",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Rozpočtová opatření - květen 2019</strong></span></p>",
+    "category": null,
+    "created": "2019-05-29 15:55:21",
+    "category_name": "Finance"
   }
 ]
