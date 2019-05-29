@@ -4588,5 +4588,25 @@
     "category": null,
     "created": "2019-05-29 10:41:03",
     "category_name": "Stavební úřad"
+  },
+  {
+    "id": "1841",
+    "official_desk_name": "Sdělení - Návrh závěrečného účtu a účetní závěrky 2018",
+    "official_desk_date": "2019-05-29",
+    "official_desk_date_until": "2019-06-17",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Sdělení - Návrh závěrečného účtu a účetní závěrky 2018</strong></span></p>",
+    "category": null,
+    "created": "2019-05-29 11:45:24",
+    "category_name": "Finance"
+  },
+  {
+    "id": "1842",
+    "official_desk_name": "Sdělení - zahájeno správní řízení ve 21.týdnu ve věci kácení dřevin mimo les",
+    "official_desk_date": "2019-05-29",
+    "official_desk_date_until": "2019-06-14",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Sdělení - zahájeno správní řízení ve 21.týdnu ve věci kácení dřevin mimo les</strong></span></p>",
+    "category": null,
+    "created": "2019-05-29 12:03:16",
+    "category_name": "Ostatní"
   }
 ]
