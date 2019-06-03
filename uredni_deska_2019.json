@@ -4748,5 +4748,35 @@
     "category": null,
     "created": "2019-06-03 14:26:33",
     "category_name": "Majetek"
+  },
+  {
+    "id": "1857",
+    "official_desk_name": "Rozhodnutí o umístění stavby - Rozšíření optické sítě Pe3ny Praha 7 - Jankovcova a okolí Praha , Holešovice",
+    "official_desk_date": "2019-06-03",
+    "official_desk_date_until": "2019-06-19",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Rozhodnutí o umístění stavby - Rozšíření optické sítě Pe3ny Praha 7 - Jankovcova a okolí Praha , Holešovice</strong></span></p>",
+    "category": null,
+    "created": "2019-06-03 15:11:11",
+    "category_name": "Stavební úřad"
+  },
+  {
+    "id": "1858",
+    "official_desk_name": "Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci -  U měšťanského pivovaru",
+    "official_desk_date": "2019-06-03",
+    "official_desk_date_until": "2019-06-19",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci -  U měšťanského pivovaru</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopr. značení a zařízení  bude provedena v termínu<span style=\"text-decoration: underline;\"><strong> 8.7.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-06-03 15:20:47",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1859",
+    "official_desk_name": "Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci - U Akademie",
+    "official_desk_date": "2019-06-03",
+    "official_desk_date_until": "2019-06-19",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci - U Akademie</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopr. značení a zařízení bude provedena v termínu<span style=\"text-decoration: underline;\"><strong> 20.6.2019 ve 12.00 - 22.00 hod.</strong></span></p>",
+    "category": null,
+    "created": "2019-06-03 15:26:37",
+    "category_name": "Doprava"
   }
 ]
