@@ -4718,5 +4718,35 @@
     "category": null,
     "created": "2019-06-03 10:02:41",
     "category_name": "Doprava"
+  },
+  {
+    "id": "1854",
+    "official_desk_name": "Oznámení o kácení dřevin rostoucích mimo les (22 týden 2019)",
+    "official_desk_date": "2019-06-03",
+    "official_desk_date_until": "2019-06-19",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o kácení dřevin rostoucích mimo les (22 týden 2019)</strong></span></p>",
+    "category": null,
+    "created": "2019-06-03 14:05:16",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "1855",
+    "official_desk_name": "Oznámení o přerušení dodávky elektřiny - Praha 7, Bubeneč, ul. Šmeralova č.p. 170,190,197,198",
+    "official_desk_date": "2019-06-04",
+    "official_desk_date_until": "2019-06-20",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o přerušení dodávky elektřiny - Praha 7, Bubeneč, ul. Šmeralova č.p. 170,190,197,198</strong></span></p>\n<p>&nbsp;</p>\n<p>                                                                                       <span style=\"text-decoration: underline;\"><strong>     Dne: 20.6.2019 od 8.00 - 14.00 hod.</strong></span></p>",
+    "category": null,
+    "created": "2019-06-03 14:16:16",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "1856",
+    "official_desk_name": "Záměr - uzavření nové nájemní smlouvy na pronájem nebyt. jednotky č. 1237/101 v domě na Maninách 1237/38, Praha 7",
+    "official_desk_date": "2019-06-03",
+    "official_desk_date_until": "2019-06-18",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Záměr -</strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong> uzavření nové nájemní smlouvy na pronájem nebyt. jednotky č. 1237/101 v domě na Maninách 1237/38, Praha 7</strong></span></p>\n<p>                                                <span style=\"text-decoration: underline;\"><strong>mezi MČ Praha 7 a s fyzickou osobou Jiřím Neymonem</strong></span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-06-03 14:26:33",
+    "category_name": "Majetek"
   }
 ]
