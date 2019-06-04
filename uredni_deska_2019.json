@@ -4778,5 +4778,25 @@
     "category": null,
     "created": "2019-06-03 15:26:37",
     "category_name": "Doprava"
+  },
+  {
+    "id": "1860",
+    "official_desk_name": "Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci - U Trojského zámku",
+    "official_desk_date": "2019-06-04",
+    "official_desk_date_until": "2019-06-20",
+    "description": "<p><strong>Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci - U Trojského zámku</strong></p>\n<p>&nbsp;</p>\n<p>Instalace dopr. značení a zařízení bude provedena v termínu:<span style=\"text-decoration: underline;\"><strong>      17.6. 23.6.2019</strong></span></p>\n<p>                                                                                                                 <span style=\"text-decoration: underline;\"><strong>   27.6. - 2.7.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-06-04 09:23:50",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1861",
+    "official_desk_name": "Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci -  Za Elektrárnou",
+    "official_desk_date": "2019-06-04",
+    "official_desk_date_until": "2019-06-20",
+    "description": "<p><strong>Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci -  Za Elektrárnou</strong></p>\n<p>&nbsp;</p>\n<p>Instalace dopr. značení a zařízení bude provedena v termínu od   <span style=\"text-decoration: underline;\"><strong>15.6. - 31.8.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-06-04 09:55:13",
+    "category_name": "Doprava"
   }
 ]
