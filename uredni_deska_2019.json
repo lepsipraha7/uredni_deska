@@ -4928,5 +4928,15 @@
     "category": null,
     "created": "2019-06-10 14:27:31",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "1875",
+    "official_desk_name": "Dražební vyhláška 19/N/2019",
+    "official_desk_date": "2019-08-01",
+    "official_desk_date_until": "2019-09-10",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška 19/N/2019</strong></span></p>\n<p>Datum a čas konání dražby:     <span style=\"text-decoration: underline;\"><strong>10.září 2019 v 10:00 hodin</strong></span></p>",
+    "category": null,
+    "created": "2019-06-10 17:12:11",
+    "category_name": "Dražby"
   }
 ]
