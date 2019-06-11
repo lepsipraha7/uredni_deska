@@ -4938,5 +4938,35 @@
     "category": null,
     "created": "2019-06-10 17:12:11",
     "category_name": "Dražby"
+  },
+  {
+    "id": "1876",
+    "official_desk_name": "Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci -  v areálu STROMOVKA",
+    "official_desk_date": "2019-06-11",
+    "official_desk_date_until": "2019-06-27",
+    "description": "<p><strong>Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci -  v areálu STROMOVKA</strong></p>\n<p>&nbsp;</p>\n<p>Instalace dopr. značení a zařízení bude provedena v termínu<span style=\"text-decoration: underline;\"><strong>        18.6. - 27.6.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-06-11 09:20:04",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1877",
+    "official_desk_name": "Opatření obecné povahy - Zvláštní užívání místní komunikace, Veverkova 16 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2019-06-11",
+    "official_desk_date_until": "2019-06-27",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - Zvláštní užívání místní komunikace, Veverkova 16 z důvodu zřízení vyhrazeného stání - 9U8 1548</strong></span></p>\n<p>&nbsp;</p>\n<p><strong>Instalace a umístění dopr. značení bude provedeno tak, aby nebránilo provádění údržby komunikace</strong></p>",
+    "category": null,
+    "created": "2019-06-11 09:28:57",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1878",
+    "official_desk_name": "Veřejná vyhláška - Příkaz (Obviněný Ivan Apshai), Komunardů 1046/19, Praha 7 - Holešovice",
+    "official_desk_date": "2019-06-11",
+    "official_desk_date_until": "2019-06-27",
+    "description": "<p><strong>Veřejná vyhláška - Příkaz (Obviněný Ivan Apshai), Komunardů 1046/19, Praha 7 - Holešovice</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-06-11 09:33:13",
+    "category_name": "Doprava"
   }
 ]
