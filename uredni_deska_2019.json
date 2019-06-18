@@ -5388,5 +5388,45 @@
     "category": null,
     "created": "2019-06-18 10:08:28",
     "category_name": "Doprava"
+  },
+  {
+    "id": "1921",
+    "official_desk_name": "SOUHLAS - s provedením ohlášeného stavebního záměru - Rekonstrukce chodníku a vytvoření záhonu, ul. Nad Štolou, Praha 7",
+    "official_desk_date": "2019-06-18",
+    "official_desk_date_until": "2019-07-04",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>SOUHLAS - s provedením ohlášeného stavebního záměru </strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong>Rekonstrukce chodníku a vytvoření záhonu, ul. Nad Štolou, Praha 7 v úseku Jirečkova - Milady Horákové na pozemku parc. č. 2207 v k.ú. Holešovice</strong></span></p>",
+    "category": null,
+    "created": "2019-06-18 11:13:05",
+    "category_name": "Stavební úřad"
+  },
+  {
+    "id": "1922",
+    "official_desk_name": "Dražební vyhláška 120 EX 5263/17-118 - nemovité věci",
+    "official_desk_date": "2019-08-12",
+    "official_desk_date_until": "2019-09-18",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška 120 EX 5263/17-118 - nemovité věci</strong></span></p>\n<p>&nbsp;</p>\n<p>Zahájení elektronické dražby: <span style=\"text-decoration: underline;\"><strong>dne 18.9.2019 v 11:00 hod.</strong></span></p>\n<p>Ukončení elektronické dražby: <span style=\"text-decoration: underline;\"><strong>nejdříve dne 18.9.2019 v 11:30 hod.</strong></span></p>",
+    "category": null,
+    "created": "2019-06-18 11:37:54",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "1923",
+    "official_desk_name": "Dražební vyhláška 120 EX 5263/17-117 - nemovité věci",
+    "official_desk_date": "2019-08-12",
+    "official_desk_date_until": "2019-09-18",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška 120 EX 5263/17-117 - nemovité věci</strong></span></p>\n<p>&nbsp;</p>\n<p>Zahájení elektronické dražby: dne 18.9.2019 v 11:00 hod.</p>\n<p>Ukončení elektronické dražby: nejdříve dne 18.9.2019 v 11:30 hod.</p>",
+    "category": null,
+    "created": "2019-06-18 11:40:30",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "1924",
+    "official_desk_name": "Dražební vyhláška 120 EX 26374/12-145 - nemovité věci",
+    "official_desk_date": "2019-08-12",
+    "official_desk_date_until": "2019-09-18",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška 120 EX 26374/12-145 - nemovité věci</strong></span></p>\n<p>&nbsp;</p>\n<p>Zahájení elektronické dražby: <span style=\"text-decoration: underline;\"><strong>dne 18.9.2019 v 11:00 hod.</strong></span></p>\n<p>Ukončení elektronické dražby: <span style=\"text-decoration: underline;\"><strong>nejdříve dne 18.9.2019 v 11:30 hod.</strong></span></p>",
+    "category": null,
+    "created": "2019-06-18 11:52:09",
+    "category_name": "Dražby"
   }
 ]
