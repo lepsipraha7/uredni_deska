@@ -5608,5 +5608,25 @@
     "category": null,
     "created": "2019-06-26 09:59:40",
     "category_name": "Dražby"
+  },
+  {
+    "id": "1944",
+    "official_desk_name": "Dražební vyhláška  - 146 EX 1256/17 - 74",
+    "official_desk_date": "2019-08-01",
+    "official_desk_date_until": "2019-09-03",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška  - 146 EX 1256/17 - 74</strong></span></p>\n<p>&nbsp;</p>\n<p>Zahájení elektronické dražby: 3.9.2019 v 11:00 hod.</p>\n<p>Ukončení elektronické dražby: 3.9.2019 v 11:30 hod.</p>",
+    "category": null,
+    "created": "2019-06-26 10:22:05",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "1945",
+    "official_desk_name": "Veřejná vyhláška - Oznámení o zahájení řízení o vydání změn vlny 03 úprav",
+    "official_desk_date": "2019-07-09",
+    "official_desk_date_until": "2019-08-15",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - Oznámení o zahájení řízení o vydání změn vlny 03 úprav</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\"><strong>Veřejné projednání se bude konat dne 8.8.2019 od 10:00 hod. v sále CAMP - amfiteátr, Vyšehradská 51, Praha 2</strong></span></p>",
+    "category": null,
+    "created": "2019-06-26 10:49:02",
+    "category_name": "Ostatní"
   }
 ]
