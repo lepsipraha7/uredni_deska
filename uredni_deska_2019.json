@@ -5688,5 +5688,25 @@
     "category": null,
     "created": "2019-06-27 09:47:44",
     "category_name": "Doprava"
+  },
+  {
+    "id": "1952",
+    "official_desk_name": "Rozhodnutí o umístění stavby nazvané: Připojení bodů TMCZ 2019 Praha 7 - Holešovice",
+    "official_desk_date": "2019-06-27",
+    "official_desk_date_until": "2019-07-16",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Rozhodnutí o umístění stavby nazvané: Připojení bodů TMCZ 2019 Praha 7 - Holešovice</strong></span></p>\n<p>&nbsp;</p>\n<p>Stavba obsahuje: Liniové sítě vysokorychlostních elektronických komunikací.</p>",
+    "category": null,
+    "created": "2019-06-27 13:16:18",
+    "category_name": "Stavební úřad"
+  },
+  {
+    "id": "1953",
+    "official_desk_name": "Oznámení o konání opakované dražby - bytová jednotka č. 1110/1, ul. Přístavní, Praha 7 - Holešovice",
+    "official_desk_date": "2019-06-28",
+    "official_desk_date_until": "2019-07-30",
+    "description": "<p><strong>Oznámení o konání opakované dražby - bytová jednotka č. 1110/1, ul. Přístavní, Praha 7 - Holešovice</strong></p>\n<p>&nbsp;</p>\n<p>Den konání dražby se stanovuje na den:  <span style=\"text-decoration: underline;\"><strong>30.7.2019 od  10:00 hod.</strong></span></p>",
+    "category": null,
+    "created": "2019-06-27 13:50:21",
+    "category_name": "Dražby"
   }
 ]
