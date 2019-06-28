@@ -5708,5 +5708,25 @@
     "category": null,
     "created": "2019-06-27 13:50:21",
     "category_name": "Dražby"
+  },
+  {
+    "id": "1954",
+    "official_desk_name": "Oznámení zahájení stav. řízení - RTT Bubenské nábřeží - Komunardů - I. etapa",
+    "official_desk_date": "2019-06-28",
+    "official_desk_date_until": "2019-07-16",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení zahájení stav. řízení - ,,RTT Bubenské nábřeží - Komunardů - I. etapa\"</strong></span></p>",
+    "category": null,
+    "created": "2019-06-28 08:30:51",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "1955",
+    "official_desk_name": "Dražební vyhláška  - 101 EX 08749-14-332",
+    "official_desk_date": "2019-07-08",
+    "official_desk_date_until": "2019-08-15",
+    "description": "<p><strong>Dražební vyhláška  - 101 EX 08749-14-332</strong></p>\n<p>&nbsp;</p>\n<p>Čas zahájení elektronické dražby je stanoven na den:   <span style=\"text-decoration: underline;\"><strong>15.8.2019  v   10,00 hod.</strong></span></p>\n<p>Ukončení elektronické dražby je stanoveno na den:      <span style=\"text-decoration: underline;\"><strong>15.8.2019  v   11,00 hod.</strong></span></p>",
+    "category": null,
+    "created": "2019-06-28 08:41:18",
+    "category_name": "Dražby"
   }
 ]
