@@ -5758,5 +5758,15 @@
     "category": null,
     "created": "2019-06-28 12:32:25",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "1960",
+    "official_desk_name": "Oznámení - Doba zvýšeného nebezpečí vzniku požáru pro území hl. m. Prahy",
+    "official_desk_date": "2019-07-01",
+    "official_desk_date_until": "2019-07-07",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení - Doba zvýšeného nebezpečí vzniku požáru pro území hl. m. Prahy</strong> </span></p>",
+    "category": null,
+    "created": "2019-07-01 08:58:42",
+    "category_name": "Ostatní"
   }
 ]
