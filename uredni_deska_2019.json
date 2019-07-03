@@ -5818,5 +5818,15 @@
     "category": null,
     "created": "2019-07-03 10:15:29",
     "category_name": "Dražby"
+  },
+  {
+    "id": "1966",
+    "official_desk_name": "Rozpočtová opatření - červen 2019",
+    "official_desk_date": "2019-07-03",
+    "official_desk_date_until": "2020-03-31",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Rozpočtová opatření - červen 2019</strong></span></p>",
+    "category": null,
+    "created": "2019-07-03 11:14:12",
+    "category_name": "Finance"
   }
 ]
