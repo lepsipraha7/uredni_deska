@@ -6108,5 +6108,25 @@
     "category": null,
     "created": "2019-07-16 13:00:00",
     "category_name": "Doprava"
+  },
+  {
+    "id": "1995",
+    "official_desk_name": "Opatření obecné povahy - Stanovení místní úpravy provozu na pozemní komunikaci  Jana Zajíce",
+    "official_desk_date": "2019-07-16",
+    "official_desk_date_until": "2019-08-01",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - Stanovení místní úpravy provozu na pozemní komunikaci  Jana Zajíce</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení bude provedena v termínu od <strong> 1. 8. 2019</strong></p>",
+    "category": null,
+    "created": "2019-07-16 13:09:46",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "1996",
+    "official_desk_name": "Opatření obecné povahy - Stanovení místní úpravy provozu na pozemních komunikacích, Heřmanova v úseku Bubenská - Řezáčovo náměstí",
+    "official_desk_date": "2019-07-16",
+    "official_desk_date_until": "2019-08-01",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - Stanovení místní úpravy provozu na pozemních komunikacích, Heřmanova v úseku Bubenská - Řezáčovo náměstí</strong></span></p>\n<p>Instalace dopravního značení bude provedena v termínu od <strong>1. 8. 2019</strong></p>",
+    "category": null,
+    "created": "2019-07-16 13:17:55",
+    "category_name": "Doprava"
   }
 ]
