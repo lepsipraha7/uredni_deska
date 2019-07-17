@@ -5833,7 +5833,7 @@
     "id": "1967",
     "official_desk_name": "Výzva - oznámení výběrového řízení - Pořízení 180 ks mini PC pro zaměstnance",
     "official_desk_date": "2019-07-03",
-    "official_desk_date_until": "2019-07-22",
+    "official_desk_date_until": "2019-07-26",
     "description": "<p>Předmětem plnění této veřejné zakázky malého rozsahu je dodání 180 ks mini PC pro potřeby zaměstnanců úřadu městské části Praha 7.</p>",
     "category": null,
     "created": "2019-07-03 16:39:38",
@@ -6178,5 +6178,15 @@
     "category": null,
     "created": "2019-07-17 13:32:34",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2002",
+    "official_desk_name": "Oznámení o zveřejnění Záměru - nebytová jednotka č. 481/140 v domě Milady Horákové 24/481, Praha 7",
+    "official_desk_date": "2019-07-18",
+    "official_desk_date_until": "2019-08-05",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o zveřejnění Záměru - nebytová jednotka č. 481/140 v domě Milady Horákové 24/481, Praha 7</strong></span></p>",
+    "category": null,
+    "created": "2019-07-17 14:47:32",
+    "category_name": "Majetek"
   }
 ]
