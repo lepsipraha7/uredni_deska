@@ -6228,5 +6228,25 @@
     "category": null,
     "created": "2019-07-18 12:07:40",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2007",
+    "official_desk_name": "Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci Na šachtě a U papírny - v části od ul. Partýzanská",
+    "official_desk_date": "2019-07-18",
+    "official_desk_date_until": "2019-08-05",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci Na šachtě a U papírny - v části od ul. Partyzánská</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\"><strong>Instalace dopravního značení a zařízení bude provedena v termínu   29.7. - 30.11.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-07-18 13:34:53",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2008",
+    "official_desk_name": "Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci Dělnická x V Háji",
+    "official_desk_date": "2019-07-18",
+    "official_desk_date_until": "2019-08-05",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci Dělnická x V Háji</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\"><strong>Instalace dopravního značení a zařízení bude provedena v termínu   01.08. - 31. 12. 2019</strong></span></p>",
+    "category": null,
+    "created": "2019-07-18 13:52:11",
+    "category_name": "Doprava"
   }
 ]
