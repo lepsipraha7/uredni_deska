@@ -6188,5 +6188,35 @@
     "category": null,
     "created": "2019-07-17 14:47:32",
     "category_name": "Majetek"
+  },
+  {
+    "id": "2003",
+    "official_desk_name": "Rozhodnutí o umístění stavby - Rozšíření optické sítě Pe3ny Praha 7 - Tovární",
+    "official_desk_date": "2019-07-18",
+    "official_desk_date_until": "2019-08-05",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Rozhodnutí o umístění stavby - Rozšíření optické sítě Pe3ny Praha 7 - Tovární</strong></span></p>\n<p>Na pozemcích parc. 1102, 2314, 2328/1 v katastrálním území Holešovice se umisťuje nový úsek nového podzemního komunikačního vedení telekomunikační sítě elektronických komunikací v ulicích Osadní, Tovární a Argentinská.</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-07-18 11:33:29",
+    "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2004",
+    "official_desk_name": "Rozhodnutí - schválení stavebního záměru na stavbu nazvanou AT HOME - zařízení stavenistě Praha, Holešovice",
+    "official_desk_date": "2019-07-18",
+    "official_desk_date_until": "2019-08-05",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Rozhodnutí - schválení stavebního záměru na stavbu nazvanou AT HOME - zařízení stavenistě Praha, Holešovice</strong></span></p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-07-18 11:46:31",
+    "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2005",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Heřmanova 12 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2019-07-18",
+    "official_desk_date_until": "2019-08-05",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Heřmanova 12 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p><strong>Důvod:  prodloužení stávajícího vyhrazeného parkování</strong></p>",
+    "category": null,
+    "created": "2019-07-18 11:57:43",
+    "category_name": "Doprava"
   }
 ]
