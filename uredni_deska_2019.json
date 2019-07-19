@@ -6268,5 +6268,35 @@
     "category": null,
     "created": "2019-07-19 08:50:36",
     "category_name": "Majetek"
+  },
+  {
+    "id": "2011",
+    "official_desk_name": "Dražební vyhláška  č. j.: 067 EX 251811/09 - 57 - movité věci",
+    "official_desk_date": "2019-07-19",
+    "official_desk_date_until": "2019-08-20",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška  č. j.: 067 EX 251811/09 - 57 - movité věci</strong></span></p>\n<p>&nbsp;</p>\n<p><strong>Dražba movitých věcí se nařizuje na den a místo: 20.08.2019 v 13:39 h., Restaurace Střelnice, ul. Míru 24, Rokycany.</strong></p>",
+    "category": null,
+    "created": "2019-07-19 09:18:06",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "2012",
+    "official_desk_name": "Oznámení o kácení dřevin rostoucích mimo les - bude provedeno v 25. - 28. týdnu roku 2019",
+    "official_desk_date": "2019-07-19",
+    "official_desk_date_until": "2019-08-05",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o kácení dřevin rostoucích mimo les - bude provedeno v 25. - 28. týdnu roku 2019</strong></span></p>",
+    "category": null,
+    "created": "2019-07-19 09:31:00",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "2013",
+    "official_desk_name": "Oznámení o zveřejnění Záměru - na pronájem bytu č. 4 na adrese U Studánky 241/29, Praha 7",
+    "official_desk_date": "2019-07-20",
+    "official_desk_date_until": "2019-08-07",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o zveřejnění Záměru - na pronájem bytu č. 4 na adrese U Studánky 241/29, Praha 7</strong></span></p>",
+    "category": null,
+    "created": "2019-07-19 09:50:21",
+    "category_name": "Majetek"
   }
 ]
