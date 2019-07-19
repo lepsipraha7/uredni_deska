@@ -6298,5 +6298,25 @@
     "category": null,
     "created": "2019-07-19 09:50:21",
     "category_name": "Majetek"
+  },
+  {
+    "id": "2014",
+    "official_desk_name": "Veřejná vyhláška - Oznámení o uložení písemnosti",
+    "official_desk_date": "2019-07-19",
+    "official_desk_date_until": "2019-08-05",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - Oznámení o uložení písemnosti</strong></span></p>",
+    "category": null,
+    "created": "2019-07-19 12:23:04",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "2015",
+    "official_desk_name": "Oznámení zahájení územního řízení a pozvání k nahlížení do spisu",
+    "official_desk_date": "2019-07-19",
+    "official_desk_date_until": "2019-08-05",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení zahájení územního řízení a pozvání k nahlížení do spisu</strong></span></p>\n<p><strong>Stavební úpravy NTL plynovodů Na Zátorce, U Vorlíků a okolí - Praha 6, Bubeneč, Praha 6, Praha 7, ul. Na Zátorce, U Vorlíků</strong></p>",
+    "category": null,
+    "created": "2019-07-19 12:36:35",
+    "category_name": "Ostatní"
   }
 ]
