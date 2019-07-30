@@ -6658,5 +6658,15 @@
     "category": null,
     "created": "2019-07-29 17:05:33",
     "category_name": "Majetek"
+  },
+  {
+    "id": "2050",
+    "official_desk_name": "Oznámení o kácení dřevin rostoucích mimo les - bude provedeno v 30. týdnu roku 2019",
+    "official_desk_date": "2019-07-30",
+    "official_desk_date_until": "2019-08-15",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o kácení dřevin rostoucích mimo les - bude provedeno v 30. týdnu roku 2019</strong></span></p>",
+    "category": null,
+    "created": "2019-07-30 07:22:51",
+    "category_name": "Ostatní"
   }
 ]
