@@ -6640,16 +6640,6 @@
     "category_name": "Stavební úřad"
   },
   {
-    "id": "2048",
-    "official_desk_name": "Oznámení o zveřejnění Záměru č. OMA-N-013-2019 - na pronájem nebytové jednotky č. 408/101 v domě č.p. 408, Heřmanova 12, Praha 7",
-    "official_desk_date": "2019-07-30",
-    "official_desk_date_until": "2020-07-31",
-    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o zveřejnění Záměru č. OMA-N-013-2019 - na pronájem nebytové jednotky č. 408/101 v domě č.p. 408, Heřmanova 12, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
-    "category": null,
-    "created": "2019-07-29 17:01:43",
-    "category_name": "Majetek"
-  },
-  {
     "id": "2049",
     "official_desk_name": "Oznámení o zveřejnění Záměru č. OMA-N-014-2019 - na pronájem nebytové jednotky č. 424/102 v domě č.p. 424, Antonínská 8, Praha 7",
     "official_desk_date": "2019-07-30",
@@ -6668,5 +6658,15 @@
     "category": null,
     "created": "2019-07-30 07:22:51",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2051",
+    "official_desk_name": "Veřejná vyhláška - Oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek",
+    "official_desk_date": "2019-07-30",
+    "official_desk_date_until": "2019-08-15",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - Oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek</strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong>Z důvodu konání sportovní akce  \"2019  IGF  Canoe  slalom  World  Cup,  Canoe  slalom   Extrem  World  Championships\"</strong></span></p>\n<p>&nbsp;</p>\n<p>Termín pro stanovení přechodné úpravy:        <strong>02.09.2019 - 09.09.2019 </strong></p>",
+    "category": null,
+    "created": "2019-07-30 09:30:33",
+    "category_name": "Doprava"
   }
 ]
