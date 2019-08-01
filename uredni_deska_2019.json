@@ -6748,5 +6748,15 @@
     "category": null,
     "created": "2019-08-01 11:05:13",
     "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2060",
+    "official_desk_name": "Rozpočtová opatření - červenec 2019",
+    "official_desk_date": "2019-08-01",
+    "official_desk_date_until": "2020-03-31",
+    "description": "<p><strong>                                            <span style=\"text-decoration: underline;\">   Rozpočtová opatření - červenec 2019</span></strong></p>",
+    "category": null,
+    "created": "2019-08-01 14:25:01",
+    "category_name": "Finance"
   }
 ]
