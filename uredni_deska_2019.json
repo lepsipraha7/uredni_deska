@@ -6778,5 +6778,45 @@
     "category": null,
     "created": "2019-08-02 11:40:13",
     "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2063",
+    "official_desk_name": "Rozhodnutí - schválení stavebního záměru na stavbu nazvanou Vestavba do podkroví, nástavba nad dvorní částí bytového domu a přístavba osobního výtahu - Ovenecká 5, Praha 7",
+    "official_desk_date": "2019-08-05",
+    "official_desk_date_until": "2019-08-21",
+    "description": "<p><strong>Rozhodnutí </strong></p>\n<p><span style=\"text-decoration: underline;\"><strong>Schválení stavebního záměru na stavbu nazvanou Vestavba do podkroví, nástavba nad dvorní částí bytového domu a přístavba osobního výtahu Praha, Holešovice č.p. 752, Ovenecká 5</strong></span></p>",
+    "category": null,
+    "created": "2019-08-05 11:01:47",
+    "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2064",
+    "official_desk_name": "Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci  - U Letenského sadu",
+    "official_desk_date": "2019-08-05",
+    "official_desk_date_until": "2019-08-22",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci  - U Letenského sadu</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <span style=\"text-decoration: underline;\"><strong>17.8.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-08-05 11:06:52",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2065",
+    "official_desk_name": "Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci  - Veverkova",
+    "official_desk_date": "2019-08-05",
+    "official_desk_date_until": "2019-08-22",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci  - Veverkova</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <span style=\"text-decoration: underline;\"><strong> 13.8.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-08-05 11:13:12",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2066",
+    "official_desk_name": "Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci  - Komunardů",
+    "official_desk_date": "2019-08-05",
+    "official_desk_date_until": "2019-08-22",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci  - Komunardů</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu   <span style=\"text-decoration: underline;\"><strong>7.9.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-08-05 11:24:38",
+    "category_name": "Doprava"
   }
 ]
