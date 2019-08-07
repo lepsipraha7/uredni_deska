@@ -6640,16 +6640,6 @@
     "category_name": "Stavební úřad"
   },
   {
-    "id": "2049",
-    "official_desk_name": "Oznámení o zveřejnění Záměru č. OMA-N-014-2019 - na pronájem nebytové jednotky č. 424/102 v domě č.p. 424, Antonínská 8, Praha 7",
-    "official_desk_date": "2019-07-30",
-    "official_desk_date_until": "2020-07-31",
-    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o zveřejnění Záměru č. OMA-N-014-2019 - na pronájem nebytové jednotky č. 424/102 v domě č.p. 424, Antonínská 8, Praha 7</strong></span></p>",
-    "category": null,
-    "created": "2019-07-29 17:05:33",
-    "category_name": "Majetek"
-  },
-  {
     "id": "2050",
     "official_desk_name": "Oznámení o kácení dřevin rostoucích mimo les - bude provedeno v 30. týdnu roku 2019",
     "official_desk_date": "2019-07-30",
@@ -6858,5 +6848,25 @@
     "category": null,
     "created": "2019-08-06 11:52:31",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2071",
+    "official_desk_name": "Oznámení o zveřejnění Záměru č. OMA-N 014-2019 - na pronájem nebytové jednotky č. 424/102 v domě č.p. 424, Antonínská 8, Praha 7",
+    "official_desk_date": "2019-08-07",
+    "official_desk_date_until": "2020-08-31",
+    "description": "<p><strong>Oznámení o zveřejnění Záměru </strong></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\"><strong>Záměr č. OMA-N 014-2019 - na pronájem nebytové jednotky č. 424/102 v domě č.p. 424, Antonínská 8, Praha 7</strong></span></p>",
+    "category": null,
+    "created": "2019-08-07 12:44:03",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2072",
+    "official_desk_name": "Oznámení o zveřejnění Záměru č. OMA-N-013-2019 - na pronájem nebytové jednotky č. 430/104 v domě č.p. 430, Komunardů 10, Praha 7",
+    "official_desk_date": "2019-08-07",
+    "official_desk_date_until": "2020-08-31",
+    "description": "<p><strong>Oznámení o zveřejnění Záměru</strong></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\"><strong>Záměr č. OMA-N-013-2019 - na pronájem nebytové jednotky č. 430/104 v domě č.p. 430, Komunardů 10, Praha 7</strong></span></p>",
+    "category": null,
+    "created": "2019-08-07 12:55:13",
+    "category_name": "Majetek"
   }
 ]
