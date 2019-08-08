@@ -6938,5 +6938,35 @@
     "category": null,
     "created": "2019-08-08 11:40:24",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2080",
+    "official_desk_name": "Oznámení o přerušení dodávky elektřiny",
+    "official_desk_date": "2019-08-08",
+    "official_desk_date_until": "2019-08-27",
+    "description": "<p><strong><span style=\"text-decoration: underline;\">Oznámení o přerušení dodávky elektřiny</span> </strong></p>\n<p>&nbsp;</p>\n<p><strong>Odběrní místa :</strong></p>\n<p><strong>ul. V Háji č.p. 1161</strong></p>\n<p><strong>ul. Přístavní č.p. 1111, 1100 a 1112</strong></p>\n<p><strong>ul. Dělnická č.p. 1067 a 1485</strong></p>\n<p><strong>dne: 27.08.2019    od:     09:00 hod.    do:    13 : 00 hod.</strong></p>",
+    "category": null,
+    "created": "2019-08-08 12:07:26",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "2081",
+    "official_desk_name": "Oznámení o přerušení dodávky elektřiny",
+    "official_desk_date": "2019-08-08",
+    "official_desk_date_until": "2019-08-27",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o přerušení dodávky elektřiny</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\"><strong>Odběrní místa :</strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong>ul. V Háji č.p. 1250 a 1153</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\"><strong>dne: 26.08.2019    od:     09:00 hod.    do:    13 : 00 hod.</strong></span></p>",
+    "category": null,
+    "created": "2019-08-08 12:09:43",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "2082",
+    "official_desk_name": "Usnesení o odročení dražebního jednání č. 030 EX 3298/12-215 - movité věci",
+    "official_desk_date": "2019-08-08",
+    "official_desk_date_until": "2019-09-19",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Usnesení o odročení dražebního jednání č. 030 EX 3298/12-215 - movité věci</strong></span></p>\n<p>&nbsp;</p>\n<p>Zahájení elektronické dražby: <span style=\"text-decoration: underline;\"><strong>dne 19.9.2019 v 11:30 hod.</strong></span></p>\n<p>Ukončení elektronické dražby proběhne nejdříve: <span style=\"text-decoration: underline;\"><strong>dne 19.9.2019 ve 12:00 hod.</strong></span></p>",
+    "category": null,
+    "created": "2019-08-08 12:55:26",
+    "category_name": "Dražby"
   }
 ]
