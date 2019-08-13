@@ -7038,5 +7038,25 @@
     "category": null,
     "created": "2019-08-12 11:23:06",
     "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2090",
+    "official_desk_name": "Opatření obecné povahy - Stanovení místní úpravy provozu na pozemní komunikaci U Městských domů, Praha 7",
+    "official_desk_date": "2019-08-13",
+    "official_desk_date_until": "2019-08-29",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - Stanovení místní úpravy provozu na pozemní komunikaci U Městských domů, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení bude provedena v termínu od <span style=\"text-decoration: underline;\"><strong>1.10.2019 trvale</strong></span></p>",
+    "category": null,
+    "created": "2019-08-13 10:00:48",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2091",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Letohradská 38 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2019-08-13",
+    "official_desk_date_until": "2019-08-29",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Letohradská 38 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Důvod: Prodloužení stávajícího vyhrazeného stání</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-08-13 10:13:42",
+    "category_name": "Doprava"
   }
 ]
