@@ -7367,7 +7367,7 @@
     "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o výběrovém řízení na pozici - Energetik - Odbor majetku (OMA)</strong></span></p>\n<p>&nbsp;</p>\n<p>Náplň práce:</p>\n<ul>\n\t<li>monitoring energie</li>\n\t<li>dohled nad dodržováním platné energetické legislativy</li>\n\t<li>smluvní management</li>\n\t<li>plánování</li>\n</ul>",
     "category": null,
     "created": "2019-08-22 14:26:03",
-    "category_name": "Ostatní"
+    "category_name": "Výběrové řízení"
   },
   {
     "id": "2123",
@@ -7408,5 +7408,25 @@
     "category": null,
     "created": "2019-08-23 09:48:44",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2127",
+    "official_desk_name": "Oznámení o možnosti převzít písemnost",
+    "official_desk_date": "2019-08-23",
+    "official_desk_date_until": "2019-09-09",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o možnosti převzít písemnost</strong></span></p>",
+    "category": null,
+    "created": "2019-08-23 10:06:25",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "2128",
+    "official_desk_name": "Oznámení zahájení územního řízení a pozvání k ústnímu jednání a o doplnění projektové dokumentace - Modernizace trati Praha-Bubny (včetně) - Praha-Výstaviště (včetně)",
+    "official_desk_date": "2019-08-23",
+    "official_desk_date_until": "2019-09-23",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení zahájení územního řízení a pozvání k ústnímu jednání a o doplnění projektové dokumentace</strong></span></p>\n<p>&nbsp;</p>\n<p>Modernizace trati Praha-Bubny (včetně) - Praha-Výstaviště (včetně)</p>\n<p>Druhé (nové) veřejné projednání se nařizuje na den:<strong> 1.10.2019 (úterý) v 9:00 hodin</strong></p>\n<p>Místo konání: Zasedací místnost č.dv. 225, Úřad městské části Praha 7, nábř. Kpt. Jaroše 1000/7, 170 00 Praha 7</p>",
+    "category": null,
+    "created": "2019-08-23 10:18:56",
+    "category_name": "Stavební úřad"
   }
 ]
