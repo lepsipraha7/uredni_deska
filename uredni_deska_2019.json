@@ -7388,5 +7388,25 @@
     "category": null,
     "created": "2019-08-23 09:14:01",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2125",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Kostelní",
+    "official_desk_date": "2019-08-23",
+    "official_desk_date_until": "2019-09-09",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Kostelní</strong></span></p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong>5.9.2019 - 6.9.2019</strong></p>",
+    "category": null,
+    "created": "2019-08-23 09:40:43",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2126",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Schnirchova 10 z důvodů řízení vyhrazeného stání",
+    "official_desk_date": "2019-08-23",
+    "official_desk_date_until": "2019-09-09",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Schnirchova 10 z důvodů řízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování</p>",
+    "category": null,
+    "created": "2019-08-23 09:48:44",
+    "category_name": "Doprava"
   }
 ]
