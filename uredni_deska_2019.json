@@ -7478,5 +7478,15 @@
     "category": null,
     "created": "2019-08-28 15:43:39",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2134",
+    "official_desk_name": "Rozpočtová opatření - srpen 2019",
+    "official_desk_date": "2019-08-29",
+    "official_desk_date_until": "2020-03-31",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Rozpočtová opatření - srpen 2019</strong></span></p>",
+    "category": null,
+    "created": "2019-08-28 15:58:06",
+    "category_name": "Finance"
   }
 ]
