@@ -7458,5 +7458,25 @@
     "category": null,
     "created": "2019-08-26 09:02:40",
     "category_name": "Veřejné zakázky"
+  },
+  {
+    "id": "2132",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Dobrovského",
+    "official_desk_date": "2019-08-28",
+    "official_desk_date_until": "2019-09-13",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Dobrovského</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu 09.09. - 13.09.2019</p>\n<p>                                                                                                                           16.09. - 20.09.2019</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-08-28 15:35:15",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2133",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Milady Horákové",
+    "official_desk_date": "2019-08-28",
+    "official_desk_date_until": "2019-09-13",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Milady Horákové</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu 24.09. - 27.09.2019</p>",
+    "category": null,
+    "created": "2019-08-28 15:43:39",
+    "category_name": "Doprava"
   }
 ]
