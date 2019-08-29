@@ -5613,7 +5613,7 @@
     "id": "1944",
     "official_desk_name": "Dražební vyhláška  - 146 EX 1256/17 - 74",
     "official_desk_date": "2019-08-01",
-    "official_desk_date_until": "2019-09-03",
+    "official_desk_date_until": "2019-08-29",
     "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška  - 146 EX 1256/17 - 74</strong></span></p>\n<p>&nbsp;</p>\n<p>Zahájení elektronické dražby: 3.9.2019 v 11:00 hod.</p>\n<p>Ukončení elektronické dražby: 3.9.2019 v 11:30 hod.</p>",
     "category": null,
     "created": "2019-06-26 10:22:05",
@@ -7518,5 +7518,15 @@
     "category": null,
     "created": "2019-08-29 11:42:40",
     "category_name": "Majetek"
+  },
+  {
+    "id": "2138",
+    "official_desk_name": "Usnesení - zrušení dražebního jednání o nemovité věci nařízeného na den 03.09.2019 v 11.00 hod.",
+    "official_desk_date": "2019-08-29",
+    "official_desk_date_until": "2019-09-03",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Usnesení - zrušení dražebního jednání o nemovité věci nařízeného na den 03.09.2019 v 11.00 hod.</strong></span></p>",
+    "category": null,
+    "created": "2019-08-29 12:26:28",
+    "category_name": "Dražby"
   }
 ]
