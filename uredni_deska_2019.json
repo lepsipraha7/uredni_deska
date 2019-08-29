@@ -7538,5 +7538,45 @@
     "category": null,
     "created": "2019-08-29 13:48:05",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2140",
+    "official_desk_name": "Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci Skalecká",
+    "official_desk_date": "2019-08-30",
+    "official_desk_date_until": "2019-09-17",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci Skalecká</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu od <strong>04.09. - 31.12.2019</strong></p>",
+    "category": null,
+    "created": "2019-08-29 13:58:45",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2141",
+    "official_desk_name": "Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci Šternberkova, Tusarova, Povltavská, Partyzánská, Jirečkova, Na Špejcharu a U Akademie x Gerstnerova Praha 7",
+    "official_desk_date": "2019-08-30",
+    "official_desk_date_until": "2019-09-17",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - Stanovení přechodné úpravy provozu na pozemní komunikaci Šternberkova, Tusarova, Povltavská, Partyzánská, Jirečkova, Na Špejcharu a U Akademie x Gerstnerova Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu 21.9.2019</p>",
+    "category": null,
+    "created": "2019-08-29 14:11:22",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2142",
+    "official_desk_name": "Oznámení o zveřejnění záměru na pronájem nebytové jednotky č. 460/101, Františka Křížka 13, 15/460",
+    "official_desk_date": "2019-08-30",
+    "official_desk_date_until": "2019-09-16",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o zveřejnění záměru na pronájem nebytové jednotky č. 460/101, Františka Křížka 13, 15/460</strong></span></p>",
+    "category": null,
+    "created": "2019-08-29 14:23:58",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2143",
+    "official_desk_name": "Oznámení o zveřejnění záměru na pronájem nebytové jednotky č. 909/101, Dukelských hrdinů 50/909",
+    "official_desk_date": "2019-08-30",
+    "official_desk_date_until": "2019-09-16",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o zveřejnění záměru na pronájem nebytové jednotky č. 909/101, Dukelských hrdinů 50/909</strong></span></p>",
+    "category": null,
+    "created": "2019-08-29 14:32:46",
+    "category_name": "Majetek"
   }
 ]
