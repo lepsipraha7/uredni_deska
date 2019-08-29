@@ -7498,5 +7498,25 @@
     "category": null,
     "created": "2019-08-29 10:33:11",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2136",
+    "official_desk_name": "Oznámení o zveřejnění záměru na pronájem nebytového prostoru č. 101 v domě Milady Horákové 851/84",
+    "official_desk_date": "2019-08-30",
+    "official_desk_date_until": "2019-09-16",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o zveřejnění záměru na pronájem nebytového prostoru č. 101 v domě Milady Horákové 851/84</strong></span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-08-29 11:32:32",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2137",
+    "official_desk_name": "Oznámení o zveřejnění záměru na pronájem nebytového prostoru č. 110 v domě Milady Horákové 851/84",
+    "official_desk_date": "2019-08-30",
+    "official_desk_date_until": "2019-09-16",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o zveřejnění záměru na pronájem nebytového prostoru č. 110 v domě Milady Horákové 851/84</strong></span></p>",
+    "category": null,
+    "created": "2019-08-29 11:42:40",
+    "category_name": "Majetek"
   }
 ]
