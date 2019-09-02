@@ -7588,5 +7588,15 @@
     "category": null,
     "created": "2019-08-30 10:55:31",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2145",
+    "official_desk_name": "Veřejná vyhláška - Rozhodnutí",
+    "official_desk_date": "2019-09-02",
+    "official_desk_date_until": "2019-09-18",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - Rozhodnutí</strong></span></p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-09-02 09:24:56",
+    "category_name": "Doprava"
   }
 ]
