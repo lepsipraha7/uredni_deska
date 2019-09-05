@@ -7678,5 +7678,35 @@
     "category": null,
     "created": "2019-09-05 12:46:26",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2156",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Jirečkova 14 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2019-09-05",
+    "official_desk_date_until": "2019-09-23",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Jirečkova 14 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování - Jirečkova 14</p>",
+    "category": null,
+    "created": "2019-09-05 12:58:39",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2157",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Bubenská a Šimáčkova, Praha 7",
+    "official_desk_date": "2019-09-05",
+    "official_desk_date_until": "2019-09-23",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Bubenská a Šimáčkova, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu   <span style=\"text-decoration: underline;\"><strong>24.9. - 26.9.2019</strong></span></p>",
+    "category": null,
+    "created": "2019-09-05 13:38:32",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2158",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Sparty v Praze 7",
+    "official_desk_date": "2019-09-05",
+    "official_desk_date_until": "2019-09-23",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Sparty v Praze 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Termín pro stanovení přechodné úpravy:  <strong>22.9.2019       <span style=\"text-decoration: underline;\">12:00 hod. - 21:00 hod.</span></strong></p>",
+    "category": null,
+    "created": "2019-09-05 13:40:44",
+    "category_name": "Doprava"
   }
 ]
