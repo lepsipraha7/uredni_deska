@@ -7718,5 +7718,35 @@
     "category": null,
     "created": "2019-09-05 15:33:18",
     "category_name": "Veřejné zakázky"
+  },
+  {
+    "id": "2160",
+    "official_desk_name": "Usnesení o elektronické dražbě - č.j. 207 EX 2961/15-81 - nemovitých věcí",
+    "official_desk_date": "2019-09-23",
+    "official_desk_date_until": "2019-11-06",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Usnesení o elektronické dražbě - č.j. 207 EX 2961/15-81 - nemovitých věcí<br />\n</strong></span></p>\n<p>&nbsp;</p>\n<p>Čas zahájení elektronické dražby je stanoven na den 6.11. 2019 v 9.00 hodin</p>\n<p>Čas ukončení elektronické dražby je stanoven na den 6.11. 2019 v 11.00 hodin</p>",
+    "category": null,
+    "created": "2019-09-06 09:03:02",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "2161",
+    "official_desk_name": "Veřejná vyhláška - oznámení o uložení písmnosti",
+    "official_desk_date": "2019-09-06",
+    "official_desk_date_until": "2019-09-23",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - oznámení o uložení písmnosti</strong></span></p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-09-06 09:17:51",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "2162",
+    "official_desk_name": "Veřejná vyhláška - oznámení o uložení písmnosti",
+    "official_desk_date": "2019-09-06",
+    "official_desk_date_until": "2019-09-23",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - oznámení o uložení písmnosti</strong></span></p>",
+    "category": null,
+    "created": "2019-09-06 09:24:31",
+    "category_name": "Ostatní"
   }
 ]
