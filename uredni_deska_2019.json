@@ -7788,5 +7788,35 @@
     "category": null,
     "created": "2019-09-11 08:19:21",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2167",
+    "official_desk_name": "Opatření obecné povahy - stanovení místní úpravy provozu na pozemních komunikacích - Trojská",
+    "official_desk_date": "2019-09-11",
+    "official_desk_date_until": "2019-09-27",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení místní úpravy provozu na pozemních komunikacích - Trojská</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení bude provedena v termínu <strong>od 1.10.2019</strong></p>",
+    "category": null,
+    "created": "2019-09-11 10:32:29",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2168",
+    "official_desk_name": "Opatření obecné povahy - stanovení místní úpravy provozu na pozemních komunikacích - Na Maninách, P-7",
+    "official_desk_date": "2019-09-11",
+    "official_desk_date_until": "2019-09-27",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení místní úpravy provozu na pozemních komunikacích - Na Maninách, P-7<br />\n</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení bude provedena v termínu od <strong>1. 10. 2019</strong></p>",
+    "category": null,
+    "created": "2019-09-11 10:41:10",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2169",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Heřmanova 18 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2019-09-11",
+    "official_desk_date_until": "2019-09-27",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Heřmanova 18 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování</p>",
+    "category": null,
+    "created": "2019-09-11 10:49:25",
+    "category_name": "Doprava"
   }
 ]
