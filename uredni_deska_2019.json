@@ -8158,5 +8158,25 @@
     "category": null,
     "created": "2019-09-23 09:50:38",
     "category_name": "Dražby"
+  },
+  {
+    "id": "2204",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Jankovcova, Praha 7",
+    "official_desk_date": "2019-09-24",
+    "official_desk_date_until": "2019-10-10",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Jankovcova, P-7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>16. 10. 2019</strong></p>",
+    "category": null,
+    "created": "2019-09-24 10:06:32",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2205",
+    "official_desk_name": "Oznámení o kácení dřevin rostoucích mimo les - bude provedeno v 38. týdnu roku 2019",
+    "official_desk_date": "2019-09-24",
+    "official_desk_date_until": "2019-10-10",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o kácení dřevin rostoucích mimo les - bude provedeno v 38. týdnu roku 2019</strong></span></p>",
+    "category": null,
+    "created": "2019-09-24 10:32:41",
+    "category_name": "Ostatní"
   }
 ]
