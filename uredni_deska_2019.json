@@ -8210,13 +8210,33 @@
     "category_name": "Doprava"
   },
   {
-    "id": "2209",
+    "id": "2211",
+    "official_desk_name": "Oznámení a zveřejnění Záměru na uzavření Dodatku č.3 k nájemní smlouvě-Tusarova 49,51,53/1216, P-7 - pronájem nebytové jednotky č. 1216/107-sklad",
+    "official_desk_date": "2019-09-26",
+    "official_desk_date_until": "2019-10-13",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění Záměru na uzavření Dodatku č.3 k nájemní smlouvě-Tusarova 49,51,53/1216, P-7 - pronájem nebytové jednotky č. 1216/107-sklad</strong></span></p>\n<p>&nbsp;</p>\n<p>Doba nájmu se prodlužuje na dobu určitou do <strong>31.12.2019</strong></p>",
+    "category": null,
+    "created": "2019-09-25 15:14:44",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2212",
     "official_desk_name": "Oznámení a zveřejnění Záměru na pronájem nebytového prostoru č. 102, Milady Horákové 851/84, Praha 7",
     "official_desk_date": "2019-09-26",
     "official_desk_date_until": "2019-10-13",
-    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění Záměru na pronájem nebytového prostoru č. 102, Milady Horákové 851/84, Praha 7 </strong></span></p>\n<p>&nbsp;</p>\n<p>- s doporučeným účelem užívání jako prodejna se stávajícím nájemcem.<strong></strong><span style=\"text-decoration: underline;\"><strong><br />\n</strong></span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění Záměru na pronájem nebytového prostoru č. 102, Milady Horákové 851/84, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>- s doporučeným účelem užívání jako prodejna se stávajícím nájemcem.</p>",
     "category": null,
-    "created": "2019-09-25 14:25:36",
+    "created": "2019-09-25 15:29:42",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2213",
+    "official_desk_name": "Oznámení a zveřejnění Záměru na pronájem nebytového prostoru č. 269/101, Nad Královskou oborou 269/17, Praha 7",
+    "official_desk_date": "2019-09-26",
+    "official_desk_date_until": "2019-10-25",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění Záměru na pronájem nebytového prostoru č. 269/101, Nad Královskou oborou 269/17, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Nájemní smlouva je na dobu určitou, nejdéle do 30.6.2022.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-09-25 15:45:47",
     "category_name": "Majetek"
   }
 ]
