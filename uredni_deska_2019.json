@@ -8394,9 +8394,39 @@
     "official_desk_name": "Oznámení o vyhlášení veřejné zakázky s názvem Rekonstrukce objektu Dobrovského 537/19, Praha 7",
     "official_desk_date": "2019-10-02",
     "official_desk_date_until": "2019-10-17",
-    "description": "<p style=\"text-align: justify;\">Dovolujeme si Vás informovat, že</p>\n<p style=\"text-align: justify;\">veřejná zakázka s názvem</p>\n<p style=\"text-align: justify;\"><strong>„Rekonstrukce objektu Dobrovského 537/19, Praha 7“</strong>,</p>\n<p style=\"text-align: justify;\">vyhlášená dle zákona č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů,</p>\n<p style=\"text-align: justify;\"> byla zveřejněna na Profilu zadavatele na adrese</p>\n<p style=\"text-align: justify;\">https://praha7.profilzadavatele-vz.cz/P19V10000766</p>",
+    "description": "<p style=\"text-align: justify;\">Dovolujeme si Vás informovat, že</p>\n<p style=\"text-align: justify;\">veřejná zakázka s názvem</p>\n<p style=\"text-align: justify;\"><strong>„Rekonstrukce objektu Dobrovského 537/19, Praha 7“</strong>,</p>\n<p style=\"text-align: justify;\">vyhlášená dle zákona č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů,</p>\n<p style=\"text-align: justify;\"> byla zveřejněna na Profilu zadavatele na adrese</p>\n<p style=\"text-align: justify;\"><a href=\"https://praha7.profilzadavatele-vz.cz/P19V10000766\" target=\"_blank\" rel=\"noopener\">https://praha7.profilzadavatele-vz.cz/P19V10000766</a></p>",
     "category": null,
     "created": "2019-10-02 09:49:13",
     "category_name": "Veřejné zakázky"
+  },
+  {
+    "id": "2230",
+    "official_desk_name": "INFORMACE O ZADÁVÁNÍ VEŘEJNÝCH ZAKÁZEK MČ PRAHA 7",
+    "official_desk_date": "2019-10-02",
+    "official_desk_date_until": "2020-12-31",
+    "description": "<p>Dovolujeme si Vás tímto informovat, že veškeré aktuálně vypisované:</p>\n<ul>\n\t<li>OTEVŘENÉ VÝZVY k podání nabídek na VEŘEJNÉ ZAKÁZKY MALÉHO ROZSAHU</li>\n</ul>\n<p>naleznete včetně příloh po dobu jejich zveřejnění v digitální podobě a ke stažení na Úřední desce MČ P7 na webové adrese:</p>\n<p style=\"text-align: center;\">https://www.praha7.cz/uredni-deska/</p>\n<ul>\n\t<li>ZADÁVACÍ ŘÍZENÍ na VEŘEJNÉ ZAKÁZKY ZADÁVANÉ PODLE ZÁKONA č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů, </li>\n</ul>\n<p>naleznete včetně příloh v digitální podobě a ke stažení na Profilu zadavatele na adrese:</p>\n<p style=\"text-align: center;\"><a href=\"https://praha7.profilzadavatele-vz.cz/profile_cent_2937.html\" target=\"_blank\" rel=\"noopener\">https://praha7.profilzadavatele-vz.cz/profile_cent_2937.html</a></p>",
+    "category": null,
+    "created": "2019-10-02 10:59:20",
+    "category_name": "Veřejné zakázky"
+  },
+  {
+    "id": "2231",
+    "official_desk_name": "Oznámení zahájení společného řízení a pozvání k ústnímu jednání - Nástavba objektu č.p. 979 v k.ú. Bubeneč a související stavební úpravy Praha 7, k.ú. Bubeneč č.p. 979, Korunovační 21",
+    "official_desk_date": "2019-10-02",
+    "official_desk_date_until": "2019-10-18",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení zahájení společného řízení a pozvání k ústnímu jednání </strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong>- Nástavba objektu č.p. 979 v k.ú. Bubeneč a související stavební úpravy Praha 7, k.ú. Bubeneč č.p. 979, Korunovační 21</strong></span></p>\n<p>&nbsp;</p>\n<p>Stavební úřad MČ P7 současně nařizuje k projednání žádosti ústní jednání spojené s ohledáním na místě na den:</p>\n<p><strong>5. listopadu 2019 (úterý) v 9:00 hodin</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-10-02 11:17:17",
+    "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2232",
+    "official_desk_name": "Rozpočtová opatření - září 2019",
+    "official_desk_date": "2019-10-02",
+    "official_desk_date_until": "2020-03-31",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Rozpočtová opatření - září 2019</strong></span></p>",
+    "category": null,
+    "created": "2019-10-02 11:42:55",
+    "category_name": "Finance"
   }
 ]
