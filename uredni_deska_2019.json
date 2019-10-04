@@ -8508,5 +8508,45 @@
     "category": null,
     "created": "2019-10-04 09:53:58",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2241",
+    "official_desk_name": "Dražební vyhláška - elektronická dražba movitých věcí, čj.: 091 EX 1166/18-029",
+    "official_desk_date": "2019-10-04",
+    "official_desk_date_until": "2019-11-06",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška - elektronická dražba movitých věcí, čj.: 091 EX 1166/18-029</strong></span></p>\n<p>&nbsp;</p>\n<p>Zahájení elektronické dražby: <strong>06.11.2019 v 13.00 hodin</strong></p>\n<p>Ukončení elektronické dražby: <strong>06.11.2019 v 14.00 hodin</strong></p>",
+    "category": null,
+    "created": "2019-10-04 10:13:10",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "2242",
+    "official_desk_name": "Rozhodnutí - Společné povolení - schválení stavebního záměru - Stavební úprava bytového domu č.p. 234 v k.ú. Bubeneč, Malířská 10, Praha 7",
+    "official_desk_date": "2019-10-04",
+    "official_desk_date_until": "2019-10-21",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Rozhodnutí - Společné povolení - schválení stavebního záměru - Stavební úprava bytového domu č.p. 234 v k.ú. Bubeneč, Malířská 10, Praha 7</strong></span></p>\n<p>Půdní vestavba, zřízení výtahu a úpravy 1. PP spojené se změnou v užívání na pozemku parc.č. 507 v k.ú. Bubeneč</p>",
+    "category": null,
+    "created": "2019-10-04 10:32:22",
+    "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2243",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Strojnická 23-25, Praha 7",
+    "official_desk_date": "2019-10-04",
+    "official_desk_date_until": "2019-10-21",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Strojnická 23-25, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong> 25. 10. 2019</strong></p>",
+    "category": null,
+    "created": "2019-10-04 10:42:15",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2244",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Jirečkova 5 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2019-10-04",
+    "official_desk_date_until": "2019-10-21",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Jirečkova 5 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-10-04 10:50:10",
+    "category_name": "Doprava"
   }
 ]
