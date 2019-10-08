@@ -8668,5 +8668,25 @@
     "category": null,
     "created": "2019-10-08 12:46:24",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2257",
+    "official_desk_name": "Veřejná vyhláška - oznámení o uložení písmnosti",
+    "official_desk_date": "2019-10-09",
+    "official_desk_date_until": "2019-10-25",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - oznámení o uložení písmnosti</strong></span></p>",
+    "category": null,
+    "created": "2019-10-08 14:19:56",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "2258",
+    "official_desk_name": "Veřejná vyhláška - oznámení o uložení písmnosti",
+    "official_desk_date": "2019-10-09",
+    "official_desk_date_until": "2019-10-25",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - oznámení o uložení písmnosti</strong></span></p>",
+    "category": null,
+    "created": "2019-10-08 14:28:15",
+    "category_name": "Ostatní"
   }
 ]
