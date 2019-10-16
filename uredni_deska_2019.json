@@ -8838,5 +8838,15 @@
     "category": null,
     "created": "2019-10-15 11:09:47",
     "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2274",
+    "official_desk_name": "Veřejná vyhláška - oznámení o uložení písmnosti",
+    "official_desk_date": "2019-10-16",
+    "official_desk_date_until": "2019-11-01",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - oznámení o uložení písmnosti</strong></span></p>",
+    "category": null,
+    "created": "2019-10-16 10:35:59",
+    "category_name": "Ostatní"
   }
 ]
