@@ -8444,7 +8444,7 @@
     "official_desk_name": "Oznámení a zveřejnění Záměru na pronájem nebytové jednotky č. 133/102 v domě U Letenského sadu 7,9/133, Praha 7",
     "official_desk_date": "2019-10-03",
     "official_desk_date_until": "2019-10-17",
-    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění Záměru na pronájem nebytové jednotky č. 133/102 v domě U Letenského sadu 7,9/133, Praha <br />\n</strong></span></p>",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění Záměru na pronájem nebytové jednotky č. 133/102 v domě U Letenského sadu 7,9/133, Praha 7<br />\n</strong></span></p>",
     "category": null,
     "created": "2019-10-02 15:00:15",
     "category_name": "Majetek"
@@ -8848,5 +8848,15 @@
     "category": null,
     "created": "2019-10-16 10:35:59",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2275",
+    "official_desk_name": "Oznámení a zveřejnění Záměru na uzavření dodatku č.1 k nájemní smlouvě - Na Ovčinách 970/4, P-7 - nebytová jednotka č. 970/103",
+    "official_desk_date": "2019-10-18",
+    "official_desk_date_until": "2019-10-04",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění Záměru na uzavření dodatku č.1 k nájemní smlouvě - Na Ovčinách 970/4, P-7 - nebytová jednotka č. 970/103</strong></span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-10-17 09:06:06",
+    "category_name": "Majetek"
   }
 ]
