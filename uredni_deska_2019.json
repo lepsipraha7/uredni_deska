@@ -8858,5 +8858,25 @@
     "category": null,
     "created": "2019-10-17 09:06:06",
     "category_name": "Majetek"
+  },
+  {
+    "id": "2276",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Heřmanova 2, Praha 7",
+    "official_desk_date": "2019-10-17",
+    "official_desk_date_until": "2019-11-04",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Heřmanova 2, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong>30.10. - 04.11.2019</strong></p>",
+    "category": null,
+    "created": "2019-10-17 10:22:55",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2277",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Veverkova 27, Praha 7",
+    "official_desk_date": "2019-10-17",
+    "official_desk_date_until": "2019-11-04",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Veverkova 27, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>04.11. - 17.11.2019</strong></p>",
+    "category": null,
+    "created": "2019-10-17 10:33:10",
+    "category_name": "Doprava"
   }
 ]
