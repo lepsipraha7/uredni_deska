@@ -9068,5 +9068,35 @@
     "category": null,
     "created": "2019-10-25 08:48:20",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2297",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci - Příjezdové komunikaci Císařský ostrov",
+    "official_desk_date": "2019-10-25",
+    "official_desk_date_until": "2019-11-11",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci - Příjezdové komunikaci Císařský ostrov</strong></span></p>\n<p><strong>Instalace dopravního značení bude provedena v termínu od 24. 10. 2019 do 31. 12. 2019</strong></p>",
+    "category": null,
+    "created": "2019-10-25 09:33:43",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2298",
+    "official_desk_name": "Veřejná vyhláška - oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek - Císařský ostrov",
+    "official_desk_date": "2019-10-25",
+    "official_desk_date_until": "2019-11-11",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek - Císařský ostrov</strong></span></p>\n<p>&nbsp;</p>\n<p><strong>Instalace dopravního značení a zařízení bude provedena k 1. 11. 2019 s účinností od 1. 1. 2020 trvale.</strong></p>",
+    "category": null,
+    "created": "2019-10-25 09:44:48",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2299",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Jankovcova",
+    "official_desk_date": "2019-10-25",
+    "official_desk_date_until": "2019-11-11",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Jankovcova</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu 17. 11. 2019</p>",
+    "category": null,
+    "created": "2019-10-25 09:55:31",
+    "category_name": "Doprava"
   }
 ]
