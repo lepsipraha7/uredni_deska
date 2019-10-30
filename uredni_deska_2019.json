@@ -9154,9 +9154,39 @@
     "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Kamenická, Praha 7",
     "official_desk_date": "2019-10-30",
     "official_desk_date_until": "2019-11-15",
-    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Kamenická, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  1. 11. - 24. 11. 2019</p>\n<p>Dopravní značky B 28 budou umístěny 7 dní před dnem platnosti.</p>",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Kamenická, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong> 1. 11. - 24. 11. 2019</strong></p>\n<p>Dopravní značky B 28 budou umístěny 7 dní před dnem platnosti.</p>",
     "category": null,
     "created": "2019-10-30 09:48:55",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2306",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Průhonu, Praha 7",
+    "official_desk_date": "2019-10-30",
+    "official_desk_date_until": "2019-11-15",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Průhonu, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>25. 11. - 4. 12. 2019</strong></p>\n<p>Dopravní značky B 28 budou umístěny 7 dní před dnem platnosti.</p>",
+    "category": null,
+    "created": "2019-10-30 09:59:11",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2307",
+    "official_desk_name": "Oznámení o vyhlášení revize katastru nemovitostí (č.j.: RO-8/2019-101)",
+    "official_desk_date": "2019-10-30",
+    "official_desk_date_until": "2019-12-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o vyhlášení revize katastru nemovitostí (č.j.: RO-8/2019-101)</strong></span></p>\n<p>&nbsp;</p>\n<p>Revize KN v k.ú. Holešovice obce Praha bude zahájena dne <strong>2. ledna 2020</strong> a potrvá přibližně do <strong>30. června 2022.</strong></p>",
+    "category": null,
+    "created": "2019-10-30 10:15:10",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2308",
+    "official_desk_name": "Oznámení o vyhlášení výběrového řízení - Koordinátor místní Agendy 21 -Odbor vzdělávání a projektového řízení - OVPŘ",
+    "official_desk_date": "2019-10-30",
+    "official_desk_date_until": "2019-11-15",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o vyhlášení výběrového řízení - Koordinátor místní Agendy 21 -Odbor vzdělávání a projektového řízení - OVPŘ</strong></span></p>\n<p>&nbsp;</p>\n<p>Náplň práce:</p>\n<ul>\n\t<li>zajištění realizace projektů souvisejících s aktivitami MA21</li>\n\t<li>organizování osvětových kampaní a osvětových akcí k udržitelnému rozvoji</li>\n\t<li>zpracování auditů udržitelného rozvoje</li>\n\t<li>koordinace participace MA21</li>\n</ul>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-10-30 10:37:18",
+    "category_name": "Výběrové řízení"
   }
 ]
