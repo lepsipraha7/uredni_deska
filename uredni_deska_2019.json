@@ -9308,5 +9308,25 @@
     "category": null,
     "created": "2019-11-05 13:30:15",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2321",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Poupětova 3, 12 a 18, Praha 7",
+    "official_desk_date": "2019-11-06",
+    "official_desk_date_until": "2019-11-22",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Poupětova 3, 12 a 18, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>30.11.2019  11:00 hod. - 15:00 hod.</strong></p>",
+    "category": null,
+    "created": "2019-11-06 10:11:44",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2322",
+    "official_desk_name": "Rozpočtová opatření - říjen 2019",
+    "official_desk_date": "2019-11-06",
+    "official_desk_date_until": "2020-03-31",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Rozpočtová opatření - říjen 2019</strong></span></p>",
+    "category": null,
+    "created": "2019-11-06 10:30:51",
+    "category_name": "Finance"
   }
 ]
