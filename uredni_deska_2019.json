@@ -9263,7 +9263,7 @@
     "id": "2316",
     "official_desk_name": "Dražební vyhláška - daňová exekuce; exekuční příkaz č.j. 4538126_19_2007-00540-107354 - dražba movitých věcí",
     "official_desk_date": "2019-11-04",
-    "official_desk_date_until": "2019-11-27",
+    "official_desk_date_until": "2019-11-12",
     "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška - daňová exekuce; exekuční příkaz č.j. 4538126_19_2007-00540-107354 - dražba movitých věcí</strong> </span></p>\n<p>&nbsp;</p>\n<p>Datum a čas konání dražby:  <strong>středa 27.11.2019 od 10.00 hodin</strong></p>\n<p>Zápis dražitelů: 9.30 hod. - 10.00 hod.</p>\n<p>Místo konání dražby: Finanční úřad pro hlavní město Prahu</p>\n<p>                                        Územní pracoviště pro Prahu 7</p>\n<p>                                        nábřeží Kpt. Jaroše 1000/7, Praha 7</p>\n<p>                                        zasedací místnost SFÚ, 3. patro, č. dveří 359</p>",
     "category": null,
     "created": "2019-11-04 16:22:19",
@@ -9477,6 +9477,16 @@
     "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení místní úpravy provozu na pozemních komunikacích Dělnická a Osadní, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>v úseku křižovatky Dělnická x Osadní</p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení bude provedena v termínu <strong>od   1. 1. 2020</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
     "category": null,
     "created": "2019-11-11 14:07:27",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2338",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Jankovcova, Praha 7",
+    "official_desk_date": "2019-11-12",
+    "official_desk_date_until": "2019-11-28",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Jankovcova, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopúravního značení a zařízení bude provedena v termínu  <strong>11.12. - 12.12.2019</strong></p>",
+    "category": null,
+    "created": "2019-11-12 11:10:54",
     "category_name": "Doprava"
   }
 ]
