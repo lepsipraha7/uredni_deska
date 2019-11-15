@@ -9588,5 +9588,25 @@
     "category": null,
     "created": "2019-11-14 14:14:08",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2349",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Studánky 10, Praha 7",
+    "official_desk_date": "2019-11-15",
+    "official_desk_date_until": "2019-12-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Studánky 10, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>01.12.2019 - 31.01.2020</strong></p>",
+    "category": null,
+    "created": "2019-11-15 09:38:27",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2350",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci na Ostrově Štvanice, Praha 7",
+    "official_desk_date": "2019-11-15",
+    "official_desk_date_until": "2019-12-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci na Ostrově Štvanice, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>1.1. - 31.12.2020</strong></p>",
+    "category": null,
+    "created": "2019-11-15 09:51:15",
+    "category_name": "Doprava"
   }
 ]
