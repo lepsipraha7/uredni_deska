@@ -9728,5 +9728,35 @@
     "category": null,
     "created": "2019-11-19 11:12:35",
     "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2363",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Sparty, Praha 7",
+    "official_desk_date": "2019-11-20",
+    "official_desk_date_until": "2019-12-06",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Sparty, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Termín pro stanovení přechodné úpravy:     <strong>08. 12. 2019                         12:00 hod. - 20:00 hod.</strong></p>",
+    "category": null,
+    "created": "2019-11-20 10:20:20",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2364",
+    "official_desk_name": "Oznámení a zveřejnění Záměru na pronájem nebytového prostoru č. 1002 - Plynární 39/798, P7",
+    "official_desk_date": "2019-11-21",
+    "official_desk_date_until": "2019-12-08",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění Záměru na pronájem nebytového prostoru č. 1002 - Plynární 39/798, P7</strong></span></p>",
+    "category": null,
+    "created": "2019-11-20 10:37:02",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2365",
+    "official_desk_name": "Oznámení a zveřejnění Záměru na pronájem nebytové jednotky č. 970/104 - Na Ovčinách 4/970, P7",
+    "official_desk_date": "2019-11-21",
+    "official_desk_date_until": "2019-12-08",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění Záměru na pronájem nebytové jednotky č. 970/104 - Na Ovčinách 4/970, P7</strong></span></p>",
+    "category": null,
+    "created": "2019-11-20 10:51:56",
+    "category_name": "Majetek"
   }
 ]
