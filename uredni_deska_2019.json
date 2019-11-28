@@ -9941,10 +9941,10 @@
   },
   {
     "id": "2384",
-    "official_desk_name": "Oznámení a zveřejnění Záměru na výměnu nájemců garáže a garážového stání č. 1 - Osadní 38/932, P7",
+    "official_desk_name": "Oznámení a zveřejnění Záměru na uzavření nové nájemní smlouvy na garážové stání č. 1 - Osadní 38/932, P7",
     "official_desk_date": "2019-11-28",
     "official_desk_date_until": "2019-12-15",
-    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění Záměru na výměnu nájemců garáže a garážového stání č. 1 - Osadní 38/932, P7</strong></span></p>",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění Záměru na uzavření nové nájemní smlouvy na garážové stání č. 1 - Osadní 38/932, P7</strong></span></p>",
     "category": null,
     "created": "2019-11-28 10:41:28",
     "category_name": "Majetek"
@@ -9957,6 +9957,36 @@
     "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění Záměru na uzavření dodatku č.1 k nájemní smlouvě na pronájem parkovacího stání č. 17 - Tusarova 42/1601, P7</strong></span></p>",
     "category": null,
     "created": "2019-11-28 10:56:49",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2386",
+    "official_desk_name": "Oznámení a zveřejnění Záměru na uzavření dodatku č.1 k nájemní smlouvě na pronájem parkovacího stání č. 19 - Tusarova 42/1601, P7",
+    "official_desk_date": "2019-11-28",
+    "official_desk_date_until": "2019-12-15",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění Záměru na uzavření dodatku č.1 k nájemní smlouvě na pronájem parkovacího stání č. 19 - Tusarova 42/1601, P7</strong></span></p>",
+    "category": null,
+    "created": "2019-11-28 11:11:18",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2387",
+    "official_desk_name": "Oznámení a zveřejnění Záměru na uzavření dodatku č.1 k nájemní smlouvě na pronájem severní štítové zdi - Argentinská 17/1098, P7",
+    "official_desk_date": "2019-11-28",
+    "official_desk_date_until": "2019-12-15",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění Záměru na uzavření dodatku č.1 k nájemní smlouvě na pronájem severní štítové zdi - Argentinská 17/1098, P7</strong></span></p>",
+    "category": null,
+    "created": "2019-11-28 11:36:57",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2388",
+    "official_desk_name": "Oznámení a zveřejnění Záměru na uzavření nové nájemní smlouvy na garážové stání č. 2 - Osadní 38/932, P7",
+    "official_desk_date": "2019-11-28",
+    "official_desk_date_until": "2019-12-15",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění Záměru na uzavření nové nájemní smlouvy na garážové stání č. 2 - Osadní 38/932, P7</strong></span></p>",
+    "category": null,
+    "created": "2019-11-28 11:51:44",
     "category_name": "Majetek"
   }
 ]
