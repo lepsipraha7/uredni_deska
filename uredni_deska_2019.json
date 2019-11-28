@@ -9894,7 +9894,7 @@
     "official_desk_name": "Návrh rozpočtu MČ P7 2020 a střednědobého výhledu rozpočtu do roku 2025",
     "official_desk_date": "2019-11-27",
     "official_desk_date_until": "2019-12-16",
-    "description": "<p><span style=\"text-decoration: underline;\"><strong>Návrh rozpočtu MČ P7 2020 a střednědobého výhledu rozpočtu do roku 2025</strong></span></p>",
+    "description": "<p><a href=\"https://www.praha7.cz/usneseni/?id=31601&amp;type=mainRes\" target=\"_blank\" rel=\"noopener\">Návrh rozpočtu MČ P7 2020 a střednědobého výhledu do roku 2025</a> – (plné znění)</p>\n<p>Schváleno usnesením Rady městské části č. 0780/19-R ze dne 26. 11. 2019</p>\n<p><span style=\"text-decoration: underline;\"><strong> </strong></span></p>",
     "category": null,
     "created": "2019-11-27 12:22:43",
     "category_name": "Finance"
@@ -10007,6 +10007,16 @@
     "description": "<p><span style=\"text-decoration: underline;\"><strong>Rozhodnutí - Stavební povolení - Novostavba bytového domu s komečními prostory na nároží ulic Dělnická a V Háji, na pozemku parc.č. 954 v k.ú. Holešovice - 1. etapa - Praha, Holešovice, Dělnická</strong></span></p>",
     "category": null,
     "created": "2019-11-28 12:40:40",
+    "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2391",
+    "official_desk_name": "Oznámení - zahájení řízení o změně stavby před dokončením - Vinařská 1, č.p. 458 v k.ú. Holešovice, P7",
+    "official_desk_date": "2019-11-28",
+    "official_desk_date_until": "2019-12-16",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení - zahájení řízení o změně stavby před dokončením - Vinařská 1, č.p. 458 v k.ú. Holešovice, P7</strong></span></p>\n<p>&nbsp;</p>\n<p>Stavební úpravy domu spočívající v zateplení dvorní fasády a ustupujících podlaží včetně uličních. Praha 7, Holešovice č.p. 458, Vinařská 1</p>",
+    "category": null,
+    "created": "2019-11-28 13:10:00",
     "category_name": "Stavební úřad"
   }
 ]
