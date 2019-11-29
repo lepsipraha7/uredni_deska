@@ -10108,5 +10108,35 @@
     "category": null,
     "created": "2019-11-29 09:52:43",
     "category_name": "Dražby"
+  },
+  {
+    "id": "2401",
+    "official_desk_name": "Dražební vyhláška - elektronická dražba nemovitých věcí, čj.: 132 EX 1423/18-72",
+    "official_desk_date": "2019-11-29",
+    "official_desk_date_until": "2019-12-30",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška - elektronická dražba nemovitých věcí, čj.: 132 EX 1423/18-72</strong></span></p>\n<p>&nbsp;</p>\n<p>Elektronická dražba bude zahájena dne <strong>30.12.2019 v 10.00 hod.</strong></p>\n<p>Elektronická dražba bude skončena nejdříve dne <strong>30.12.2019 v 11.00 hod.</strong></p>\n<p><strong> </strong></p>",
+    "category": null,
+    "created": "2019-11-29 10:06:59",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "2402",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Trojská, Praha 7",
+    "official_desk_date": "2019-11-29",
+    "official_desk_date_until": "2019-12-16",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Trojská, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu od  <strong>3. 12. 2019  do  30. 11. 2020</strong></p>",
+    "category": null,
+    "created": "2019-11-29 10:47:21",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2403",
+    "official_desk_name": "Rozpočtová opatření - listopad 2019",
+    "official_desk_date": "2019-11-29",
+    "official_desk_date_until": "2020-03-31",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Rozpočtová opatření - listopad 2019</strong></span></p>",
+    "category": null,
+    "created": "2019-11-29 10:57:29",
+    "category_name": "Finance"
   }
 ]
