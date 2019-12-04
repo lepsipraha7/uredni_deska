@@ -10238,5 +10238,35 @@
     "category": null,
     "created": "2019-12-04 15:15:30",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2414",
+    "official_desk_name": "Oznámení a zveřejnění záměru na uzavření dodatku č.1 k nájemní smlouvě - Milady Horákové 851/84, P-7",
+    "official_desk_date": "2019-12-05",
+    "official_desk_date_until": "2019-12-21",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění záměru na uzavření dodatku č.1 k nájemní smlouvě - Milady Horákové 851/84, P-7</strong></span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2019-12-04 17:17:43",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2415",
+    "official_desk_name": "Oznámení a zveřejnění záměru na pronájem nebytové jednotky č. 408/101 a 408/104 - Heřmanova 12/408, P-7",
+    "official_desk_date": "2019-12-05",
+    "official_desk_date_until": "2019-12-21",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění záměru na pronájem nebytové jednotky č. 408/101 a 408/104 - Heřmanova 12/408, P-7</strong></span></p>",
+    "category": null,
+    "created": "2019-12-04 17:28:15",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2416",
+    "official_desk_name": "Oznámení a zveřejnění záměru na uzavření dodatku č.1 ke smlouvě o spolupráci - Františka Křížka 683/22, P-7 (umístění automatů)",
+    "official_desk_date": "2019-12-05",
+    "official_desk_date_until": "2019-12-21",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění záměru na uzavření dodatku č.1 ke smlouvě o spolupráci - Františka Křížka 683/22, P-7 (umístění automatů)</strong></span></p>",
+    "category": null,
+    "created": "2019-12-04 17:46:09",
+    "category_name": "Majetek"
   }
 ]
