@@ -10243,7 +10243,7 @@
     "id": "2414",
     "official_desk_name": "Oznámení a zveřejnění záměru na uzavření dodatku č.1 k nájemní smlouvě - Milady Horákové 851/84, P-7",
     "official_desk_date": "2019-12-05",
-    "official_desk_date_until": "2019-12-21",
+    "official_desk_date_until": "2019-12-09",
     "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění záměru na uzavření dodatku č.1 k nájemní smlouvě - Milady Horákové 851/84, P-7</strong></span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
     "category": null,
     "created": "2019-12-04 17:17:43",
@@ -10318,5 +10318,25 @@
     "category": null,
     "created": "2019-12-06 10:56:03",
     "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2422",
+    "official_desk_name": "Oznámení a zveřejnění záměru na uzavření dodatku č.1 k nájemní smlouvě - Milady Horákové 851/84, P-7",
+    "official_desk_date": "2019-12-10",
+    "official_desk_date_until": "2019-12-26",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění záměru na uzavření dodatku č.1 k nájemní smlouvě - Milady Horákové 851/84, P-7</strong></span></p>",
+    "category": null,
+    "created": "2019-12-09 11:09:30",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2423",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu  na pozemní komunikaci Pplk. Sochora 18, Praha 7",
+    "official_desk_date": "2019-12-09",
+    "official_desk_date_until": "2019-12-25",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Pplk. Sochora 18, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>16. 01. 2020</strong></p>",
+    "category": null,
+    "created": "2019-12-09 11:36:27",
+    "category_name": "Doprava"
   }
 ]
