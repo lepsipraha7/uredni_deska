@@ -10468,5 +10468,35 @@
     "category": null,
     "created": "2019-12-12 15:05:31",
     "category_name": "Dražby"
+  },
+  {
+    "id": "2437",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu  na pozemní komunikaci Osadní 7, Praha 7",
+    "official_desk_date": "2019-12-13",
+    "official_desk_date_until": "2019-12-30",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Osadní 7, Praha 7</strong></span></p>",
+    "category": null,
+    "created": "2019-12-13 08:28:22",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2438",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace V Háji 25 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2019-12-13",
+    "official_desk_date_until": "2019-12-30",
+    "description": "<p><strong>Opatření obecné povahy - zvláštní užívání místní komunikace V Háji 25 z důvodu zřízení vyhrazeného stání</strong></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2019-12-13 08:40:07",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2439",
+    "official_desk_name": "Veřejná vyhláška - Oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek - Milady Horákové 81, Praha 7",
+    "official_desk_date": "2019-12-13",
+    "official_desk_date_until": "2019-12-30",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - Oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek - Milady Horákové 81, Praha 7</strong></span></p>",
+    "category": null,
+    "created": "2019-12-13 08:51:49",
+    "category_name": "Doprava"
   }
 ]
