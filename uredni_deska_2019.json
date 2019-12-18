@@ -10628,5 +10628,25 @@
     "category": null,
     "created": "2019-12-18 09:50:10",
     "category_name": "Dražby"
+  },
+  {
+    "id": "2453",
+    "official_desk_name": "Schválený rozpočet MČ Praha 7 pro rok 2020 + schválený střednědobý výhled rozpočtu do roku 2025",
+    "official_desk_date": "2019-12-18",
+    "official_desk_date_until": "2021-03-31",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Schválený rozpočet MČ Praha 7 pro rok 2020 + schválený střednědobý výhled rozpočtu do roku 2025</strong></span></p>",
+    "category": null,
+    "created": "2019-12-18 10:19:03",
+    "category_name": "Finance"
+  },
+  {
+    "id": "2454",
+    "official_desk_name": "Usnesení o nařízení dražebního jednání - elektronická dražba č.j. 024 EX 1134_15-293",
+    "official_desk_date": "2019-12-18",
+    "official_desk_date_until": "2020-02-12",
+    "description": "<p><strong>Usnesení o nařízení dražebního jednání - elektronická dražba č.j. 024 EX 1134_15-293</strong></p>\n<p>&nbsp;</p>\n<p>Datum konání elektronické dražby se stanovuje na <strong>12.02.2019</strong></p>\n<p>Čas zahájení elektronické dražby se stanovuje na <strong>11.30 hod.</strong></p>\n<p>Čas ukončení elektronické dražby se stanovuje na <strong>11.45 hod.</strong></p>",
+    "category": null,
+    "created": "2019-12-18 10:51:52",
+    "category_name": "Dražby"
   }
 ]
