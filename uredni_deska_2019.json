@@ -10728,5 +10728,35 @@
     "category": null,
     "created": "2019-12-23 08:25:38",
     "category_name": "Dražby"
+  },
+  {
+    "id": "2463",
+    "official_desk_name": "MHMP - Prodloužení trasy A metra v Praze - provozní úsek V.A Dejvická (mimo) - Motol",
+    "official_desk_date": "2019-12-16",
+    "official_desk_date_until": "2020-01-15",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>MHMP - Prodloužení trasy A metra v Praze - provozní úsek V.A Dejvická (mimo) - Motol</strong></span></p>\n<p>&nbsp;</p>\n<p>Odbor ochrany prostředí Magistrátu hlavního města Prahy informuje o doplnění oznámení změny záměru \"Prodloužení trasy A metra v Praze - provozní úsek V.A Dejvická (mimo) - Motol\" o rozptylovou studii.</p>",
+    "category": null,
+    "created": "2019-12-23 09:04:54",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "2464",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace U Smaltovny 3 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2019-12-23",
+    "official_desk_date_until": "2020-01-08",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace U Smaltovny 3 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování</p>",
+    "category": null,
+    "created": "2019-12-23 09:41:59",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2465",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Dělnická 4 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2019-12-23",
+    "official_desk_date_until": "2020-01-08",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Dělnická 4 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2019-12-23 09:46:26",
+    "category_name": "Doprava"
   }
 ]
