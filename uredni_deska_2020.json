@@ -178,5 +178,25 @@
     "category": null,
     "created": "2020-01-08 17:11:09",
     "category_name": "Dražby"
+  },
+  {
+    "id": "2488",
+    "official_desk_name": "Rozpočtová opatření prosince 2019 - část II",
+    "official_desk_date": "2020-01-09",
+    "official_desk_date_until": "2020-01-31",
+    "description": "<p><span style=\"text-decoration: underline;\">Rozpočtová opatření prosince 2019 - část II</span></p>",
+    "category": null,
+    "created": "2020-01-09 10:23:56",
+    "category_name": "Finance"
+  },
+  {
+    "id": "2489",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Šmeralova 2, Praha 7",
+    "official_desk_date": "2020-01-09",
+    "official_desk_date_until": "2020-01-27",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Šmeralova 2, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>22. 01. 2020</strong></p>",
+    "category": null,
+    "created": "2020-01-09 10:50:51",
+    "category_name": "Doprava"
   }
 ]
