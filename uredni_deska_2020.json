@@ -198,5 +198,25 @@
     "category": null,
     "created": "2020-01-09 10:50:51",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2490",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Tusarova 22 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-01-09",
+    "official_desk_date_until": "2020-01-27",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Tusarova 22 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-01-09 13:25:48",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2491",
+    "official_desk_name": "Opatření obecné povahy - stanovení místní a přechodné úpravy provozu na pozemní komunikaci Nádvorní 1, Praha 7",
+    "official_desk_date": "2020-01-09",
+    "official_desk_date_until": "2020-01-27",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení místní a přechodné úpravy provozu na pozemní komunikaci Nádvorní 1, Praha 7</strong></span></p>",
+    "category": null,
+    "created": "2020-01-09 13:54:49",
+    "category_name": "Doprava"
   }
 ]
