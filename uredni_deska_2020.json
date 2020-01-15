@@ -348,5 +348,25 @@
     "category": null,
     "created": "2020-01-15 10:04:17",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2505",
+    "official_desk_name": "Oznámení a zveřejnění Záměru na uzavření nájemní smlouvy - parkovací stání č. 107 a č. 108 - Milady Horákové 84/851, P-7",
+    "official_desk_date": "2020-01-16",
+    "official_desk_date_until": "2020-02-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění Záměru na uzavření nájemní smlouvy - parkovací stání č. 107 a č. 108 - Milady Horákové 84/851, P-7</strong></span></p>",
+    "category": null,
+    "created": "2020-01-15 15:03:46",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2506",
+    "official_desk_name": "Oznámení a zveřejnění Záměru na uzavření dodatku č. 2 k nájemní smlouvě - garážové stání č. 18 - Osadní 38/932, P-7",
+    "official_desk_date": "2020-01-16",
+    "official_desk_date_until": "2020-02-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění Záměru na uzavření dodatku č. 2 k nájemní smlouvě - garážové stání č. 18 - Osadní 38/932, P-7</strong></span></p>",
+    "category": null,
+    "created": "2020-01-15 15:15:09",
+    "category_name": "Majetek"
   }
 ]
