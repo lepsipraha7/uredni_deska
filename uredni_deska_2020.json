@@ -388,5 +388,25 @@
     "category": null,
     "created": "2020-01-15 17:08:51",
     "category_name": "Dražby"
+  },
+  {
+    "id": "2509",
+    "official_desk_name": "Usnesení - Dražební vyhláška - elektronická dražba nemovitých věcí (č.j.: 146 EX 549/19-32) + Exekuční příkaz (č.j.: 146 EX 549/19-12)",
+    "official_desk_date": "2020-01-16",
+    "official_desk_date_until": "2020-03-24",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Usnesení - Dražební vyhláška - elektronická dražba nemovitých věcí (č.j.: 146 EX 549/19-32) + Exekuční příkaz (č.j.: 146 EX 549/19-12)</strong></span></p>\n<p>&nbsp;</p>\n<p>Zahájení elektronické dražby: <strong>dne 24.03.2020 v 11:00 hod.</strong></p>\n<p>Ukončení elektronické dražby: <strong>nejdříve dne 24.03.2020 v 11:30 hod.</strong></p>",
+    "category": null,
+    "created": "2020-01-16 09:03:37",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "2510",
+    "official_desk_name": "Veřejná vyhláška - Oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek - areál Tokovo z ul. Jankovcova, Praha 7",
+    "official_desk_date": "2020-01-16",
+    "official_desk_date_until": "2020-02-03",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - Oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek - areál Tokovo z ul. Jankovcova, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu nejpozději od <strong>1. 4. 2020 trvale</strong></p>",
+    "category": null,
+    "created": "2020-01-16 09:46:54",
+    "category_name": "Doprava"
   }
 ]
