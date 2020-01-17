@@ -418,5 +418,35 @@
     "category": null,
     "created": "2020-01-16 14:27:10",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2512",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci v Královské oboře u objektu Planetária, Praha 7",
+    "official_desk_date": "2020-01-17",
+    "official_desk_date_until": "2020-02-03",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci v Královské oboře u objektu Planetária, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Dopravní značky B 28 budou umístěny 7 dní před dnem platnosti.</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong>15. 3. - 20. 4. 2020</strong></p>",
+    "category": null,
+    "created": "2020-01-17 11:33:15",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2513",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Šimáčkova 2 až 4, Praha 7",
+    "official_desk_date": "2020-01-17",
+    "official_desk_date_until": "2020-02-03",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Šimáčkova 2 až 4, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>03. 02. 2020</strong></p>",
+    "category": null,
+    "created": "2020-01-17 11:40:43",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2514",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Sparty, Praha 7",
+    "official_desk_date": "2020-01-17",
+    "official_desk_date_until": "2020-02-04",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Sparty, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Termín pro stanovení přechodné úpravy: <strong>15. 02. 2020          12:00 hod.  -  20:00 hod.</strong></p>",
+    "category": null,
+    "created": "2020-01-17 11:48:54",
+    "category_name": "Doprava"
   }
 ]
