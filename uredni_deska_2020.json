@@ -468,5 +468,25 @@
     "category": null,
     "created": "2020-01-20 09:38:10",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2517",
+    "official_desk_name": "Veřejná vyhláška - oznámení uložení písemnosti - Územní souhlas, č.j.: MČ P7 363303/2019/SU/Val ze dne 18.12.2019",
+    "official_desk_date": "2020-01-20",
+    "official_desk_date_until": "2020-02-05",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - oznámení uložení písemnosti - Územní souhlas, č.j.: MČ P7 363303/2019/SU/Val ze dne 18.12.2019</strong></span></p>\n<p>Rodinný dům, Pod Salabkou 65/6, Praha 7 - Troja, tepelné čerpadlo a přečerpávací jímka kanalizace - umístění na pozemku parc.č. 65/6 k.ú. Troja</p>",
+    "category": null,
+    "created": "2020-01-20 11:12:34",
+    "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2518",
+    "official_desk_name": "Oznámení o zahájení řízení - změna stavby před jejím dokončením - stavba Holport II",
+    "official_desk_date": "2020-01-20",
+    "official_desk_date_until": "2020-02-05",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o zahájení řízení - změna stavby před jejím dokončením - stavba Holport II</strong></span></p>\n<p>Stavební úřad MČ P7 <strong>upouští od ohledání na místě a ústního jednání.</strong></p>",
+    "category": null,
+    "created": "2020-01-20 11:32:05",
+    "category_name": "Stavební úřad"
   }
 ]
