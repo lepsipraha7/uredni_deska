@@ -498,5 +498,55 @@
     "category": null,
     "created": "2020-01-21 09:44:30",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2520",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Umělecká 13 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-01-21",
+    "official_desk_date_until": "2020-02-06",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Umělecká 13 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-01-21 09:56:42",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2521",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Letohradská 54 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-01-21",
+    "official_desk_date_until": "2020-02-06",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Letohradská 54 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-01-21 10:07:58",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2522",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Přístavní 19 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-01-21",
+    "official_desk_date_until": "2020-02-06",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Přístavní 19 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-01-21 10:14:17",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2523",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Schnirchova 13 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-01-21",
+    "official_desk_date_until": "2020-02-06",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Schnirchova 13 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-01-21 10:27:39",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2524",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Heřmanova 9 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-01-21",
+    "official_desk_date_until": "2020-02-06",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Heřmanova 9 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-01-21 10:38:12",
+    "category_name": "Doprava"
   }
 ]
