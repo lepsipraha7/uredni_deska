@@ -548,5 +548,15 @@
     "category": null,
     "created": "2020-01-21 10:38:12",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2525",
+    "official_desk_name": "Oznámení o přerušení dodávky elektřiny",
+    "official_desk_date": "2020-01-21",
+    "official_desk_date_until": "2020-02-11",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o přerušení dodávky elektřiny:</strong></span></p>\n<p>&nbsp;</p>\n<p>dne <strong>10.02.2020</strong> (pondělí)  -  od <strong>08.30 do 13.00 hodin</strong> v ulici Antonínská č.p. 422 a 423</p>\n<p>dne <strong>11.02.2020</strong> (úterý) - od<strong> 08.00 do 14.00 hodin</strong> v ulici Antonínská č.p. 424, ul. Farského č.p. 1385 a 1386 a ul. Pplk. Sochora č.p. 1387</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2020-01-21 12:35:51",
+    "category_name": "Ostatní"
   }
 ]
