@@ -578,5 +578,35 @@
     "category": null,
     "created": "2020-01-22 10:25:28",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2528",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Smaltovny 17, Praha 7",
+    "official_desk_date": "2020-01-22",
+    "official_desk_date_until": "2020-02-07",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Smaltovny 17, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>DZ bude umístěno 7 dní před realizací.</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong>05.02.2020</strong></p>",
+    "category": null,
+    "created": "2020-01-22 14:31:58",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2529",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci V Háji 12, Praha 7",
+    "official_desk_date": "2020-01-22",
+    "official_desk_date_until": "2020-02-07",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci V Háji 12, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong>01.02. - 31.12.2020</strong></p>",
+    "category": null,
+    "created": "2020-01-22 14:42:45",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2530",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Studánky 10, Praha 7",
+    "official_desk_date": "2020-01-22",
+    "official_desk_date_until": "2020-02-07",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Studánky 10, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>DZ bude umístěno 7 dní před realizací.</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong>01.02. - 03.11.2020</strong></p>",
+    "category": null,
+    "created": "2020-01-22 14:48:03",
+    "category_name": "Doprava"
   }
 ]
