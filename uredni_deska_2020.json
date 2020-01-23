@@ -648,5 +648,35 @@
     "category": null,
     "created": "2020-01-23 09:54:21",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2535",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Heřmanova 2 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-01-23",
+    "official_desk_date_until": "2020-02-10",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Heřmanova 2 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-01-23 10:09:36",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2536",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Ortenovo náměstí 17 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-01-23",
+    "official_desk_date_until": "2020-02-10",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Ortenovo náměstí 17 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-01-23 10:13:33",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2537",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Pod Havránkou a parkové cestě Havránka, Praha 7",
+    "official_desk_date": "2020-01-23",
+    "official_desk_date_until": "2020-02-10",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Pod Havránkou a parkové cestě Havránka, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu 15. 2. - 29. 2. 2020</p>",
+    "category": null,
+    "created": "2020-01-23 10:18:59",
+    "category_name": "Doprava"
   }
 ]
