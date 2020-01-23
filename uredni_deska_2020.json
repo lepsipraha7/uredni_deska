@@ -628,5 +628,25 @@
     "category": null,
     "created": "2020-01-23 08:02:28",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2533",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Antonínská 2 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-01-23",
+    "official_desk_date_until": "2020-02-10",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Antonínská 2 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-01-23 09:47:08",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2534",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Pplk. Sochora 1 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-01-23",
+    "official_desk_date_until": "2020-02-10",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Pplk. Sochora 1 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-01-23 09:54:21",
+    "category_name": "Doprava"
   }
 ]
