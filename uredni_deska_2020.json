@@ -623,7 +623,7 @@
     "id": "2532",
     "official_desk_name": "Oznámení o kácení dřevin rostoucích mimo les - ve 3. týdnu roku 2020 bylo zahájeno 1 správní řízení",
     "official_desk_date": "2020-01-23",
-    "official_desk_date_until": "2020-01-23",
+    "official_desk_date_until": "2020-02-10",
     "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o kácení dřevin rostoucích mimo les - ve 3. týdnu roku 2020 bylo zahájeno 1 správní řízení</strong></span></p>",
     "category": null,
     "created": "2020-01-23 08:02:28",
@@ -768,5 +768,15 @@
     "category": null,
     "created": "2020-01-28 11:20:33",
     "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2547",
+    "official_desk_name": "Oznámení o kácení dřevin rostoucích mimo les - ve 4. týdnu roku 2020 bylo zahájeno 1 správní řízení",
+    "official_desk_date": "2020-01-28",
+    "official_desk_date_until": "2020-02-13",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o kácení dřevin rostoucích mimo les - ve 4. týdnu roku 2020 bylo zahájeno 1 správní řízení</strong></span></p>",
+    "category": null,
+    "created": "2020-01-28 15:05:43",
+    "category_name": "Ostatní"
   }
 ]
