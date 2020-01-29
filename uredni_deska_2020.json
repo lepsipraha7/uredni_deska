@@ -808,5 +808,25 @@
     "category": null,
     "created": "2020-01-29 08:52:23",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2551",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace U Letenského sadu č. 10 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-01-29",
+    "official_desk_date_until": "2020-02-14",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace U Letenského sadu č. 10 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-01-29 09:08:44",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2552",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Šimáčkova 28 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-01-29",
+    "official_desk_date_until": "2020-02-14",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Šimáčkova 28 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-01-29 09:29:24",
+    "category_name": "Doprava"
   }
 ]
