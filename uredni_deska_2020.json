@@ -878,5 +878,55 @@
     "category": null,
     "created": "2020-01-30 10:46:23",
     "category_name": "Dražby"
+  },
+  {
+    "id": "2558",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Pplk. Sochora 17 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-01-30",
+    "official_desk_date_until": "2020-02-17",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Pplk. Sochora 17 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-01-30 11:11:26",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2559",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace U Garáží 6 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-01-30",
+    "official_desk_date_until": "2020-02-17",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace U Garáží 6 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-01-30 11:17:49",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2560",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Dělnická 21 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-01-30",
+    "official_desk_date_until": "2020-02-17",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Dělnická 21 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-01-30 11:21:42",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2561",
+    "official_desk_name": "Veřejná vyhláška - Oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek - Ortenovo náměstí 12, Praha 7",
+    "official_desk_date": "2020-01-30",
+    "official_desk_date_until": "2020-02-17",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - Oznámení o návrhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek - Ortenovo náměstí 12, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena k 15. 04. 2020 s účinností od <strong>16 .04. 2020 trvale.</strong></p>",
+    "category": null,
+    "created": "2020-01-30 11:45:00",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2562",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Ortenovo náměstí 12, Praha 7",
+    "official_desk_date": "2020-01-30",
+    "official_desk_date_until": "2020-02-17",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Ortenovo náměstí 12, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu od <span style=\"text-decoration: underline;\"><strong>05. 02. 2020 do 15. 04. 2020</strong></span></p>",
+    "category": null,
+    "created": "2020-01-30 11:55:57",
+    "category_name": "Doprava"
   }
 ]
