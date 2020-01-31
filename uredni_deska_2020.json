@@ -978,5 +978,35 @@
     "category": null,
     "created": "2020-01-30 14:59:41",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2568",
+    "official_desk_name": "Dražební vyhláška - dražba movitých věcí povinného, č.j.: 201 EX 03946/19-103",
+    "official_desk_date": "2020-01-31",
+    "official_desk_date_until": "2020-03-16",
+    "description": "<p><strong>Dražební vyhláška - dražba movitých věcí povinného, č.j.: 201 EX 03946/19-103</strong></p>\n<p>&nbsp;</p>\n<p>Dražba se uskuteční dne <strong>16.3.2020 v 10:00 hodin</strong> na adrese <strong>Bavoryně 38, 267 51  Bavoryně.</strong></p>\n<p>Termín prohlídky movité věci: <strong>16.3.2020 v době od 09.30 hod. do 09.45 hod. </strong>v místě konání dražby.</p>",
+    "category": null,
+    "created": "2020-01-31 09:14:56",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "2569",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Farského 2 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-01-31",
+    "official_desk_date_until": "2020-02-17",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Farského 2 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-01-31 09:43:50",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2570",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Elektrárny, Partyzánská, Praha 7",
+    "official_desk_date": "2020-01-31",
+    "official_desk_date_until": "2020-02-17",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Elektrárny, Partyzánská, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>24. 2. - 13. 3. 2020</strong></p>",
+    "category": null,
+    "created": "2020-01-31 09:53:56",
+    "category_name": "Doprava"
   }
 ]
