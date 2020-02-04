@@ -1088,5 +1088,15 @@
     "category": null,
     "created": "2020-02-04 09:47:11",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2579",
+    "official_desk_name": "Rozpočtová opatření - leden 2020",
+    "official_desk_date": "2020-02-05",
+    "official_desk_date_until": "2021-03-31",
+    "description": "<p>Rozpočtová opatření - leden 2020</p>",
+    "category": null,
+    "created": "2020-02-04 14:23:17",
+    "category_name": "Finance"
   }
 ]
