@@ -1048,5 +1048,45 @@
     "category": null,
     "created": "2020-02-03 17:48:23",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2575",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Povltavská 44 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-02-04",
+    "official_desk_date_until": "2020-02-20",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Povltavská 44 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-02-04 09:31:32",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2576",
+    "official_desk_name": "Informace o výsledcích kontrol za rok 2019",
+    "official_desk_date": "2020-02-04",
+    "official_desk_date_until": "2021-02-03",
+    "description": "<p>Městská část Praha 7, Úřad městské části, Odbor živnostenský informuje ve smyslu ustanovení § 26 zákona č. 255/2012, o kontrole (kontrolní řád), o výsledcích kontrol provedených pracovníky kontrolního oddělení v roce 2019.</p>",
+    "category": null,
+    "created": "2020-02-04 09:41:51",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "2577",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Schnirchova 26 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-02-04",
+    "official_desk_date_until": "2020-02-20",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Schnirchova 26 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-02-04 09:42:56",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2578",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace U Smaltovny 17 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-02-04",
+    "official_desk_date_until": "2020-02-20",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace U Smaltovny 17 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-02-04 09:47:11",
+    "category_name": "Doprava"
   }
 ]
