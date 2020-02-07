@@ -1228,5 +1228,35 @@
     "category": null,
     "created": "2020-02-07 08:50:08",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2593",
+    "official_desk_name": "Oznámení o zahájení řízení - změna stavby před jejím dokončením - U Studánky 14, č.p. 651, Praha 7",
+    "official_desk_date": "2020-02-07",
+    "official_desk_date_until": "2020-02-24",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o zahájení řízení - změna stavby před jejím dokončením - U Studánky 14, č.p. 651, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Změna stavby před jejím dokončením spočívá ve změně termínu dokončení stavby.</p>\n<p><strong>Nový termín dokončení je 31.12.2020.</strong></p>",
+    "category": null,
+    "created": "2020-02-07 09:03:43",
+    "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2594",
+    "official_desk_name": "Oznámení o vyhlášení výběrového řízení - Právník - Odbor právní (OPV)",
+    "official_desk_date": "2020-02-07",
+    "official_desk_date_until": "2020-02-23",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o vyhlášení výběrového řízení - Právník - Odbor právní (OPV)</strong></span></p>\n<p>&nbsp;</p>\n<p><strong>Náplň práce:</strong></p>\n<p>Poskytování konzultací a vypracování právních stanovisek pro jednotlivé odbory úřadu městské části při řešení konkrétních problémů v jednotlivých oblastech jejich činnosti.</p>\n<p>Kontrola návrhů předkládaných jednotlivými odbory ke schválení radou a zastupitelstvem městské části.</p>\n<p>Zastupování městské části v řízení před soudy, státními orgány a jinými právními subjekty, včetně řízení, ve kterých je městská část ustanovena opatrovníkem.</p>\n<p>Spolupráce s vedoucími odborů při vypracovávání návrhů smluv uzavíraných MČ Praha 7 či ÚMČ Praha 7, účast na jednáních s protistranou.<br />\n<br />\n</p>",
+    "category": null,
+    "created": "2020-02-07 09:16:43",
+    "category_name": "Výběrové řízení"
+  },
+  {
+    "id": "2595",
+    "official_desk_name": "Usnesení - zrušení dražby nemovitých věcí vedené pod č.j. 146 EX 549_19-32 (zrušeno Usnesením - č.j. 146 EX 549_19-41)",
+    "official_desk_date": "2020-02-07",
+    "official_desk_date_until": "2020-03-24",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Usnesení - zrušení dražby nemovitých věcí vedené pod č.j. 146 EX 549_19-32 (zrušeno Usnesením - č.j. 146 EX 549_19-41)</strong></span></p>\n<p><strong>Zrušuje se</strong> dražební jednání nemovitých věcí nařízené na den 24.03.2020 v 11:00 hod. prostřednictvím elektronického systému dražeb.</p>",
+    "category": null,
+    "created": "2020-02-07 09:46:10",
+    "category_name": "Dražby"
   }
 ]
