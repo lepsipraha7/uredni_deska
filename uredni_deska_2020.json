@@ -1468,5 +1468,45 @@
     "category": null,
     "created": "2020-02-13 10:47:49",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2617",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Šimáčkova, Praha 7",
+    "official_desk_date": "2020-02-13",
+    "official_desk_date_until": "2020-03-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Šimáčkova, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>06. 03. 2020</strong></p>",
+    "category": null,
+    "created": "2020-02-13 10:59:33",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2618",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Kostelní 38 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-02-13",
+    "official_desk_date_until": "2020-03-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Kostelní 38 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-02-13 11:16:26",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2619",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Papírny, Praha 7",
+    "official_desk_date": "2020-02-13",
+    "official_desk_date_until": "2020-03-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Papírny, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>09. 03. - 10. 03. 2020</strong></p>",
+    "category": null,
+    "created": "2020-02-13 11:43:03",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2620",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Letohradská 22 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-02-13",
+    "official_desk_date_until": "2020-03-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Letohradská 22 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-02-13 11:49:33",
+    "category_name": "Doprava"
   }
 ]
