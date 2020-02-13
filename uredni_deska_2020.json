@@ -1448,5 +1448,25 @@
     "category": null,
     "created": "2020-02-13 09:29:59",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2615",
+    "official_desk_name": "FÚ, Územní pracoviště pro P-7 - VEŘEJNÁ VYHLÁŠKA (uložení písemnosti č.j.: 823877/20/2007-00460-104296)",
+    "official_desk_date": "2020-02-13",
+    "official_desk_date_until": "2020-03-03",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>FÚ, Územní pracoviště pro P-7 - VEŘEJNÁ VYHLÁŠKA (uložení písemnosti č.j.: 823877/20/2007-00460-104296)</strong></span></p>",
+    "category": null,
+    "created": "2020-02-13 10:06:51",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "2616",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace U Letenského sadu 12 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-02-13",
+    "official_desk_date_until": "2020-03-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace U Letenského sadu 12 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-02-13 10:47:49",
+    "category_name": "Doprava"
   }
 ]
