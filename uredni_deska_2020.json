@@ -1508,5 +1508,25 @@
     "category": null,
     "created": "2020-02-13 11:49:33",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2621",
+    "official_desk_name": "FÚ, Územní pracoviště pro P-7 - VEŘEJNÁ VYHLÁŠKA (uložení písemností č.j.: 1014011/20/2007-00460-104296)",
+    "official_desk_date": "2020-02-14",
+    "official_desk_date_until": "2020-03-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>FÚ, Územní pracoviště pro P-7 - VEŘEJNÁ VYHLÁŠKA (uložení písemností č.j.: 1014011/20/2007-00460-104296)</strong></span></p>",
+    "category": null,
+    "created": "2020-02-14 10:25:48",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "2622",
+    "official_desk_name": "Usnesení - Dražební vyhláška opakovaná - elektronická dražba nemovitých věcí (č.j.: 167 EX 24561/11-279)",
+    "official_desk_date": "2020-02-14",
+    "official_desk_date_until": "2020-04-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Usnesení - Dražební vyhláška opakovaná - elektronická dražba nemovitých věcí (č.j.: 167 EX 24561/11-279)</strong></span></p>\n<p>&nbsp;</p>\n<p>Elektronická dražba bude zahájena:<strong> 2.4.2020 v 9:00 hod.</strong></p>\n<p>Elektronická dražba bude skončena nejdříve: <strong>2.4.2020 v 9:20 hod.</strong></p>",
+    "category": null,
+    "created": "2020-02-14 10:52:18",
+    "category_name": "Dražby"
   }
 ]
