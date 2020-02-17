@@ -1568,5 +1568,15 @@
     "category": null,
     "created": "2020-02-17 09:39:17",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2627",
+    "official_desk_name": "Usnesení - Dražební vyhláška - elektronická dražba nemovitých věcí (č.j.: 002 Ex 386/19-37)",
+    "official_desk_date": "2020-02-17",
+    "official_desk_date_until": "2020-03-31",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Usnesení - Dražební vyhláška - elektronická dražba nemovitých věcí (č.j.: 002 Ex 386/19-37)</strong></span></p>\n<p>&nbsp;</p>\n<p>Zahájení elektronické dražby: <strong>31.03.2020 ve 13:00 hod.</strong></p>\n<p>Ukončení dražby:                       <strong>31.03.2020 ve 14:00 hod.</strong></p>",
+    "category": null,
+    "created": "2020-02-17 10:20:41",
+    "category_name": "Dražby"
   }
 ]
