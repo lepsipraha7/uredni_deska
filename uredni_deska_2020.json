@@ -1538,5 +1538,35 @@
     "category": null,
     "created": "2020-02-14 11:18:57",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2624",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Strojnická, Jankovcova, Kostelní, Praha 7",
+    "official_desk_date": "2020-02-17",
+    "official_desk_date_until": "2020-03-04",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Strojnická, Jankovcova, Kostelní, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong>19. 03. 2020</strong></p>",
+    "category": null,
+    "created": "2020-02-17 09:26:01",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2625",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Šimáčkova, Janovského, Dukelských hrdinů, Praha 7",
+    "official_desk_date": "2020-02-17",
+    "official_desk_date_until": "2020-03-04",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Šimáčkova, Janovského, Dukelských hrdinů, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>11. 03. - 15. 03. 2020</strong></p>\n<p><strong>                                                                                                                     20. 03. - 22. 03. 2020</strong></p>",
+    "category": null,
+    "created": "2020-02-17 09:33:59",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2626",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace U Smaltovny 6 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-02-17",
+    "official_desk_date_until": "2020-03-04",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace U Smaltovny 6 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-02-17 09:39:17",
+    "category_name": "Doprava"
   }
 ]
