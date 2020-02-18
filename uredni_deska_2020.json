@@ -1618,5 +1618,25 @@
     "category": null,
     "created": "2020-02-18 09:33:38",
     "category_name": "Dražby"
+  },
+  {
+    "id": "2632",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemních komunikacích na území MČ Praha 7 (Komplexní údržba komunikací - KÚK)",
+    "official_desk_date": "2020-02-18",
+    "official_desk_date_until": "2020-03-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemních komunikacích na území MČ Praha 7 (Komplexní údržba komunikací - KÚK)</strong></span></p>\n<p>&nbsp;</p>\n<p><strong>Termín pro stanovení přechodné úpravy:</strong></p>\n<p><span style=\"text-decoration: underline;\">jarní část:</span>          <strong>  14. 04. 2020 - 30. 04. 2020 od 08.00 hod. - 15:00 hod.</strong></p>\n<p><span style=\"text-decoration: underline;\">podzimní část:</span>   <strong>02. 10. 2020 - 20. 10. 2020 od 08:00 hod. - 15:00 hod.</strong></p>",
+    "category": null,
+    "created": "2020-02-18 10:29:36",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2633",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Ovenecká, Praha 7",
+    "official_desk_date": "2020-02-18",
+    "official_desk_date_until": "2020-03-05",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Ovenecká, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>05. 03. 2020</strong></p>",
+    "category": null,
+    "created": "2020-02-18 10:39:57",
+    "category_name": "Doprava"
   }
 ]
