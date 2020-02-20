@@ -1688,5 +1688,25 @@
     "category": null,
     "created": "2020-02-19 15:15:48",
     "category_name": "Majetek"
+  },
+  {
+    "id": "2639",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Studánky 14, Praha 7",
+    "official_desk_date": "2020-02-20",
+    "official_desk_date_until": "2020-03-09",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Studánky 14, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong>01.04. - 30.06.2020</strong></p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2020-02-20 08:50:53",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2640",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Milady Horákové 13, Praha 7",
+    "official_desk_date": "2020-02-20",
+    "official_desk_date_until": "2020-03-09",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Milady Horákové 13, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong>09.03. - 30.06.2020</strong></p>",
+    "category": null,
+    "created": "2020-02-20 08:56:48",
+    "category_name": "Doprava"
   }
 ]
