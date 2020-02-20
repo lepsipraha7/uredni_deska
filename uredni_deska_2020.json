@@ -1708,5 +1708,45 @@
     "category": null,
     "created": "2020-02-20 08:56:48",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2641",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Pplk. Sochora 21, Praha 7",
+    "official_desk_date": "2020-02-20",
+    "official_desk_date_until": "2020-03-09",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Pplk. Sochora 21, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong>16.03. - 31.05.2020</strong></p>",
+    "category": null,
+    "created": "2020-02-20 09:03:05",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2642",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Jirečkova 15, Praha 7",
+    "official_desk_date": "2020-02-20",
+    "official_desk_date_until": "2020-03-09",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Jirečkova 15, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong>09.03. - 31.05.2020</strong></p>",
+    "category": null,
+    "created": "2020-02-20 09:08:50",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2643",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Bubenská 13, Praha 7",
+    "official_desk_date": "2020-02-20",
+    "official_desk_date_until": "2020-03-09",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Bubenská 13, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong>16.03. 05.06.2020</strong></p>",
+    "category": null,
+    "created": "2020-02-20 09:22:00",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2644",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Průhonu, Osadní, U Městských domů, Praha 7",
+    "official_desk_date": "2020-02-20",
+    "official_desk_date_until": "2020-03-09",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Průhonu, Osadní, U Městských domů, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong>14. 04. - 08. 05. 2020</strong></p>",
+    "category": null,
+    "created": "2020-02-20 09:29:00",
+    "category_name": "Doprava"
   }
 ]
