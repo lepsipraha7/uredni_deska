@@ -1838,5 +1838,15 @@
     "category": null,
     "created": "2020-03-02 09:59:06",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2654",
+    "official_desk_name": "Oznámení o přerušení dodávky elektřiny",
+    "official_desk_date": "2020-03-02",
+    "official_desk_date_until": "2020-04-01",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o přerušení dodávky elektřiny</strong></span></p>\n<p>&nbsp;</p>\n<p>Dodávka elektřiny bude přrušena pro odběrné místo:</p>\n<p><strong>ul. Antonínská: 424, dne 1.4.2020 v době od 8. hod do 16.00 hod.</strong></p>",
+    "category": null,
+    "created": "2020-03-02 11:27:48",
+    "category_name": "Ostatní"
   }
 ]
