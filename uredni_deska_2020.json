@@ -1848,5 +1848,15 @@
     "category": null,
     "created": "2020-03-02 11:27:48",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2655",
+    "official_desk_name": "Dražební vyhláška - elektronická dražba movitých věcí, č.j.: 147 EX 822/19-34",
+    "official_desk_date": "2020-03-03",
+    "official_desk_date_until": "2020-04-17",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška - elektronická dražba movitých věcí, č.j.: 147 EX 822/19-34</strong></span></p>\n<p>&nbsp;</p>\n<p>Elektronická dražba se uskuteční dne <strong>17. 4. 2020 od 10:00:00 hodin.</strong></p>\n<p>Elektronická dražba bude ukončena dne <strong>17. 4. 2020 v 11:00:00 hodin.</strong></p>",
+    "category": null,
+    "created": "2020-03-03 10:43:21",
+    "category_name": "Dražby"
   }
 ]
