@@ -1888,5 +1888,65 @@
     "category": null,
     "created": "2020-03-04 12:04:11",
     "category_name": "Finance"
+  },
+  {
+    "id": "2659",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Sparty, Praha 7",
+    "official_desk_date": "2020-03-04",
+    "official_desk_date_until": "2020-03-20",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Sparty, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\">Termín pro stanovení přechodné úpravy:</span>     <strong>15. 03. 2020      12:00 hod. - 20:00 hod.</strong></p>",
+    "category": null,
+    "created": "2020-03-04 14:59:29",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2660",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Bubenské nábřeží, Tusarova, Praha 7",
+    "official_desk_date": "2020-03-04",
+    "official_desk_date_until": "2020-03-20",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Bubenské nábřeží, Tusarova, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>27. 03. 2020</strong></p>",
+    "category": null,
+    "created": "2020-03-04 15:16:42",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2661",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Janovského 31 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-03-04",
+    "official_desk_date_until": "2020-03-20",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Janovského 31 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-03-04 15:26:17",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2662",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Poupětova 1, Praha 7",
+    "official_desk_date": "2020-03-04",
+    "official_desk_date_until": "2020-03-20",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Poupětova 1, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong> 31. 03. 2020</strong></p>",
+    "category": null,
+    "created": "2020-03-04 15:37:19",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2663",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Dělnická, Bubenské nábřeží, Tusarova, Praha 7",
+    "official_desk_date": "2020-03-04",
+    "official_desk_date_until": "2020-03-20",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Dělnická, Bubenské nábřeží, Tusarova, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu   <strong>21. 03. 2020</strong></p>",
+    "category": null,
+    "created": "2020-03-04 15:49:22",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2664",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace U Studánky 31 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-03-04",
+    "official_desk_date_until": "2020-03-20",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace U Studánky 31 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-03-04 15:55:07",
+    "category_name": "Doprava"
   }
 ]
