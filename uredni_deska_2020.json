@@ -1878,5 +1878,15 @@
     "category": null,
     "created": "2020-03-04 09:34:44",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2658",
+    "official_desk_name": "Rozpočtová opatření - únor 2020",
+    "official_desk_date": "2020-03-04",
+    "official_desk_date_until": "2021-03-31",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Rozpočtová opatření - únor 2020</strong></span></p>",
+    "category": null,
+    "created": "2020-03-04 12:04:11",
+    "category_name": "Finance"
   }
 ]
