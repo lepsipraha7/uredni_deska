@@ -1941,12 +1941,32 @@
   },
   {
     "id": "2664",
-    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace U Studánky 31 z důvodu zřízení vyhrazeného stání",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace U Studánky 3 z důvodu zřízení vyhrazeného stání",
     "official_desk_date": "2020-03-04",
     "official_desk_date_until": "2020-03-20",
-    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace U Studánky 31 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace U Studánky 3 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
     "category": null,
     "created": "2020-03-04 15:55:07",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2665",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Přístavní 40 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-03-04",
+    "official_desk_date_until": "2020-03-20",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Přístavní 40 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícícho vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-03-04 16:06:39",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2666",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemních komunikacích Prahy 7 (Sportisimo ½ Maraton Praha)",
+    "official_desk_date": "2020-03-04",
+    "official_desk_date_until": "2020-03-16",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemních komunikacích Prahy 7 (Sportisimo ½ Maraton Praha)</strong></span></p>\n<p>&nbsp;</p>\n<p>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemních komunikacích pro průjezdní úseky místních komunikací Bubenské nábřeží, Jateční (v úseku Komunardů – Jankovcova), Jankovcova (v úseku Na Maninách – Dělnická) v Praze 7 z důvodu konání sportovní akce „Sportisimo ½ Maraton Praha“<br />\n<br />\n</p>\n<p>Termín pro stanovení přechodné úpravy:  28. 03. 2020      00:01 hod - 15:00 hod.</p>",
+    "category": null,
+    "created": "2020-03-04 16:28:22",
     "category_name": "Doprava"
   }
 ]
