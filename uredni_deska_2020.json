@@ -2058,5 +2058,55 @@
     "category": null,
     "created": "2020-03-06 11:51:28",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2676",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace U Průhonu 11 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-03-06",
+    "official_desk_date_until": "2020-03-23",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace U Průhonu 11 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-03-06 12:00:59",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2677",
+    "official_desk_name": "Opatření obecné povahy - stanovení místní a přechodné úpravy provozu na pozemní komunikaci Malířská 3, Praha 7",
+    "official_desk_date": "2020-03-06",
+    "official_desk_date_until": "2020-03-23",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení místní a přechodné úpravy provozu na pozemní komunikaci Malířská 3, Praha 7</strong></span></p>\n<p>spočívající v umístění svislého dopravního značení IP 12 se symbolem č. 255 \"Osoba na invalidním vozíku\"</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2020-03-06 12:11:36",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2678",
+    "official_desk_name": "Opatření obecné povahy - stanovení místní úpravy provozu na pozemních komunikacích - U Smaltovny 17, Praha 7",
+    "official_desk_date": "2020-03-06",
+    "official_desk_date_until": "2020-03-23",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení místní úpravy provozu na pozemních komunikacích - U Smaltovny 17, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení bude provedena v termínu od <strong>16. 04. 2020 trvale.</strong></p>",
+    "category": null,
+    "created": "2020-03-06 12:25:47",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2679",
+    "official_desk_name": "Opatření obecné povahy - stanovení místní úpravy provozu na pozemních komunikacích - Ortenovo náměstí 12, Praha 7",
+    "official_desk_date": "2020-03-06",
+    "official_desk_date_until": "2020-03-23",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení místní úpravy provozu na pozemních komunikacích - Ortenovo náměstí 12, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení bude provedena v termínu od <strong>16. 04. 2020 trvale.</strong></p>",
+    "category": null,
+    "created": "2020-03-06 12:31:41",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2680",
+    "official_desk_name": "Opatření obecné povahy - stanovení místní úpravy provozu na pozemních komunikacích - vjezd do areálu TOKOVO z ulice Janovcova, Praha 7",
+    "official_desk_date": "2020-03-06",
+    "official_desk_date_until": "2020-03-23",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení místní úpravy provozu na pozemních komunikacích - vjezd do areálu TOKOVO z ulice Janovcova, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení bude provedena v termínu<strong> od 1. 4. 2020</strong></p>",
+    "category": null,
+    "created": "2020-03-06 12:39:23",
+    "category_name": "Doprava"
   }
 ]
