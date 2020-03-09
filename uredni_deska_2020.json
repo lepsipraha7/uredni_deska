@@ -2138,5 +2138,25 @@
     "category": null,
     "created": "2020-03-09 11:49:03",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2684",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Šternberkova 8, Praha 7",
+    "official_desk_date": "2020-03-09",
+    "official_desk_date_until": "2020-03-25",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Šternberkova 8, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>16.03. -  16.07.2020</strong></p>",
+    "category": null,
+    "created": "2020-03-09 15:40:05",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2685",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Tusarova 20, Praha 7",
+    "official_desk_date": "2020-03-09",
+    "official_desk_date_until": "2020-03-25",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Tusarova 20, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>23.03. - 29.05.2020</strong></p>",
+    "category": null,
+    "created": "2020-03-09 15:54:41",
+    "category_name": "Doprava"
   }
 ]
