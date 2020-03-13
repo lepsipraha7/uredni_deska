@@ -2218,5 +2218,25 @@
     "category": null,
     "created": "2020-03-11 11:48:17",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2692",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Šternberkova 4, Praha 7",
+    "official_desk_date": "2020-03-13",
+    "official_desk_date_until": "2020-03-31",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Šternberkova 4, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong>05.05. - 07.05.2020<br />\n</strong></p>\n<p>                                                                                                                         <strong> 27.05. - 29.05.2020</strong></p>",
+    "category": null,
+    "created": "2020-03-13 10:29:15",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2693",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Veverkova 13, Praha 7",
+    "official_desk_date": "2020-03-13",
+    "official_desk_date_until": "2020-03-31",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Veverkova 13, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong>25.03.2020</strong></p>",
+    "category": null,
+    "created": "2020-03-13 10:35:10",
+    "category_name": "Doprava"
   }
 ]
