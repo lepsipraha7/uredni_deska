@@ -1603,7 +1603,7 @@
     "id": "2630",
     "official_desk_name": "Oznámení o výběrovém řízení s aukcí č. HMS/014/2020 a jeho podmínkách - Úřad pro zastupování státu ve věcech majetkových",
     "official_desk_date": "2020-02-19",
-    "official_desk_date_until": "2020-03-20",
+    "official_desk_date_until": "2020-03-16",
     "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o výběrovém řízení s aukcí č. HMS/014/2020 a jeho podmínkách - Úřad pro zastupování státu ve věcech majetkových</strong></span></p>\n<p>&nbsp;</p>\n<p>Pronájem pozemku parc.č. 2117 vč. stavby bez čp/če a pozemku parc.č. 2118/20, vše v k.ú. Holešovice, obec Praha (část areálu tenisových kurtů na Letné).</p>",
     "category": null,
     "created": "2020-02-17 14:41:59",
@@ -2278,5 +2278,15 @@
     "category": null,
     "created": "2020-03-16 11:17:37",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2698",
+    "official_desk_name": "Oznámení o zrušení výběrového řízení s aukcí č. HMS/014/2020 (Úřad pro zastupování státu ve věcech majetkových)",
+    "official_desk_date": "2020-03-16",
+    "official_desk_date_until": "2020-03-20",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o zrušení výběrového řízení s aukcí č. HMS/014/2020 (Úřad pro zastupování státu ve věcech majetkových)</strong></span></p>",
+    "category": null,
+    "created": "2020-03-16 14:26:57",
+    "category_name": "Ostatní"
   }
 ]
