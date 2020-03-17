@@ -2328,5 +2328,45 @@
     "category": null,
     "created": "2020-03-16 16:19:49",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2703",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Jankovcova 39 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-03-17",
+    "official_desk_date_until": "2020-04-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Jankovcova 39 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-03-17 13:21:16",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2704",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Přístavní 55 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-03-17",
+    "official_desk_date_until": "2020-04-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Přístavní 55 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-03-17 13:36:43",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2705",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Schnirchova 2, Praha 7",
+    "official_desk_date": "2020-03-17",
+    "official_desk_date_until": "2020-04-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Schnirchova 2, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>30.03. - 30.05.2020</strong></p>",
+    "category": null,
+    "created": "2020-03-17 13:43:01",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2706",
+    "official_desk_name": "Opatření obecné povahy - stanovení místní úpravy provozu na pozemních komunikacích - Na Výšinách x Korunovační, Praha 7",
+    "official_desk_date": "2020-03-17",
+    "official_desk_date_until": "2020-04-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení místní úpravy provozu na pozemních komunikacích - Na Výšinách x Korunovační, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení bude provedena v termínu od <strong>16. 04. 2020 trvale.</strong></p>",
+    "category": null,
+    "created": "2020-03-17 13:49:20",
+    "category_name": "Doprava"
   }
 ]
