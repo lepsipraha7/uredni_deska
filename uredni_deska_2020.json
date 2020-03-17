@@ -2368,5 +2368,15 @@
     "category": null,
     "created": "2020-03-17 13:49:20",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2707",
+    "official_desk_name": "NAŘÍZENÍ - zákaz vstupu, pobytu a pohybu cestujících ve všech prostředcích městské hromadné dopravy na území hl.m. Prahy bez ochranných prostředků dýchacích cest (respirátory, roušky, šátky, šály a jiné obdobné tkaniny).",
+    "official_desk_date": "2020-03-17",
+    "official_desk_date_until": "2020-06-01",
+    "description": "<p style=\"text-align: center;\"><span style=\"text-decoration: underline; font-size: 28px;\"><strong>NAŘÍZENÍ</strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong> Zákaz vstupu, pobytu a pohybu cestujících ve všech prostředcích městské hromadné dopravy na území hl.m. Prahy bez ochranných prostředků dýchacích cest (respirátory, roušky, šátky, šály a jiné obdobné tkaniny).</strong></span></p>",
+    "category": null,
+    "created": "2020-03-17 14:16:51",
+    "category_name": "Ostatní"
   }
 ]
