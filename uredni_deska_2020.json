@@ -2371,12 +2371,22 @@
   },
   {
     "id": "2707",
-    "official_desk_name": "NAŘÍZENÍ - zákaz vstupu, pobytu a pohybu cestujících ve všech prostředcích městské hromadné dopravy na území hl.m. Prahy bez ochranných prostředků dýchacích cest (respirátory, roušky, šátky, šály a jiné obdobné tkaniny).",
+    "official_desk_name": "MHMP - NAŘÍZENÍ - zákaz vstupu, pobytu a pohybu cestujících ve všech prostředcích městské hromadné dopravy na území hl.m. Prahy bez ochranných prostředků dýchacích cest (respirátory, roušky, šátky, šály a jiné obdobné tkaniny).",
     "official_desk_date": "2020-03-17",
     "official_desk_date_until": "2020-06-01",
     "description": "<p style=\"text-align: center;\"><span style=\"text-decoration: underline; font-size: 28px;\"><strong>NAŘÍZENÍ</strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong> Zákaz vstupu, pobytu a pohybu cestujících ve všech prostředcích městské hromadné dopravy na území hl.m. Prahy bez ochranných prostředků dýchacích cest (respirátory, roušky, šátky, šály a jiné obdobné tkaniny).</strong></span></p>",
     "category": null,
     "created": "2020-03-17 14:16:51",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "2708",
+    "official_desk_name": "MHMP - NAŘÍZENÍ veřejným zřizovatelům škol a školských zařízení",
+    "official_desk_date": "2020-03-18",
+    "official_desk_date_until": "2020-06-01",
+    "description": "<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong><span style=\"font-size: 28px;\">NAŘÍZENÍ</span> </strong></span></p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>veřejným zřizovatelům škol a školských zařízení</strong></span></p>\n<p style=\"text-align: left;\">poskytovat veškerou potřebnou součinnost primátorovi hl.m. Prahy v procesu zajišťování vykonávání péče o děti ve věku od 3 do 10 let ve skupinách po nejvýše 15 dětech. Na základě a ve smyslu Usnesení vlády ČR č. 2019 ze dne 15.3.2020 k tomu <span style=\"text-decoration: underline;\"><strong>určuji</strong></span> školy a školská zařízení na území hl.m. Prahy, jejichž seznam se nachází v příloze tohoto nařízení.</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2020-03-18 10:50:12",
     "category_name": "Ostatní"
   }
 ]
