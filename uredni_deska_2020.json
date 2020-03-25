@@ -2528,5 +2528,25 @@
     "category": null,
     "created": "2020-03-25 14:52:34",
     "category_name": "Výběrové řízení"
+  },
+  {
+    "id": "2723",
+    "official_desk_name": "Oznámení o přerušení dodávky elektřiny",
+    "official_desk_date": "2020-03-25",
+    "official_desk_date_until": "2020-03-30",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o přerušení dodávky elektřiny</strong></span></p>\n<p>&nbsp;</p>\n<p>Dodávka elektřiny bude přerušena pro odběrné místo:</p>\n<p>P7 Holešovice, Dělnická 1566/58, VOST 8828 LIGHTHOUSE - <strong>dne 30.3.2020 v době od 08:00 hod. do 12:00 hod.</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2020-03-25 15:16:37",
+    "category_name": "Ostatní"
+  },
+  {
+    "id": "2724",
+    "official_desk_name": "Oznámení o přerušení dodávky elektřiny",
+    "official_desk_date": "2020-03-25",
+    "official_desk_date_until": "2020-04-14",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o přerušení dodávky elektřiny</strong></span></p>\n<p>&nbsp;</p>\n<p>Dodávka elektřiny bude přrušena pro odběrné místo:</p>\n<p><strong>ul. Antonínská: 424, dne 14.4.2020 v době od 8. hod do 16.00 hod.</strong></p>",
+    "category": null,
+    "created": "2020-03-25 15:28:37",
+    "category_name": "Ostatní"
   }
 ]
