@@ -2721,12 +2721,32 @@
   },
   {
     "id": "2742",
-    "official_desk_name": "VEŘEJNÁ VYHLÁŠKA - Oznámení o návhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek",
+    "official_desk_name": "VEŘEJNÁ VYHLÁŠKA - Oznámení o návhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek (Veverkova 7, P7)",
     "official_desk_date": "2020-04-03",
     "official_desk_date_until": "2020-04-21",
-    "description": "<p><span style=\"text-decoration: underline;\"><strong>VEŘEJNÁ VYHLÁŠKA - Oznámení o návhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena k 15.6.2020 s účinností od <strong>16. 06. 2020 trvale</strong></p>",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>VEŘEJNÁ VYHLÁŠKA - Oznámení o návhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek (Veverkova 7, P7)</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena k 15.6.2020 s účinností od <strong>16. 06. 2020 trvale</strong></p>",
     "category": null,
     "created": "2020-04-02 13:50:10",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2743",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Průhonu, Praha 7",
+    "official_desk_date": "2020-04-03",
+    "official_desk_date_until": "2020-04-21",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci U Průhonu, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu od <strong>10.04.2020 do 30.06.2020</strong></p>",
+    "category": null,
+    "created": "2020-04-02 14:21:41",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2744",
+    "official_desk_name": "VEŘEJNÁ VYHLÁŠKA - Oznámení o návhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek (U Průhonu, P7)",
+    "official_desk_date": "2020-04-03",
+    "official_desk_date_until": "2020-04-21",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>VEŘEJNÁ VYHLÁŠKA - Oznámení o návhu opatření obecné povahy pro stanovení místní úpravy provozu na pozemních komunikacích a výzva k uplatnění připomínek nebo námitek (U Průhonu, P7)</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena k 15. 06. 2020 s účinností od <strong>16. 06. 2020 trvale.</strong></p>",
+    "category": null,
+    "created": "2020-04-02 14:34:38",
     "category_name": "Doprava"
   }
 ]
