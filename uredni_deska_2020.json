@@ -2788,5 +2788,15 @@
     "category": null,
     "created": "2020-04-06 14:42:03",
     "category_name": "Veřejné zakázky"
+  },
+  {
+    "id": "2749",
+    "official_desk_name": "Rozpočtová opatření - březen 2020",
+    "official_desk_date": "2020-04-06",
+    "official_desk_date_until": "2021-03-31",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Rozpočtová opatření - březen 2020</strong></span></p>",
+    "category": null,
+    "created": "2020-04-06 15:14:04",
+    "category_name": "Finance"
   }
 ]
