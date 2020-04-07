@@ -2798,5 +2798,25 @@
     "category": null,
     "created": "2020-04-06 15:14:04",
     "category_name": "Finance"
+  },
+  {
+    "id": "2751",
+    "official_desk_name": "Opatření obecné povahy  -  stanovení přechodné úpravy provozu na pozemní komunikaci Partyzánská, Na Zátorách, Plynární, Praha 7",
+    "official_desk_date": "2020-04-07",
+    "official_desk_date_until": "2020-04-23",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy  -  stanovení přechodné úpravy provozu na pozemní komunikaci Partyzánská, Na Zátorách, Plynární, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>15.04.2020 - 01.06.2020</strong></p>",
+    "category": null,
+    "created": "2020-04-07 13:48:17",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2752",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Dělnická, Osadní, Praha 7",
+    "official_desk_date": "2020-04-07",
+    "official_desk_date_until": "2020-04-23",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Dělnická, Osadní, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>22.04. - 08.06.2020</strong></p>",
+    "category": null,
+    "created": "2020-04-07 13:55:45",
+    "category_name": "Doprava"
   }
 ]
