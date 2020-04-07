@@ -2818,5 +2818,25 @@
     "category": null,
     "created": "2020-04-07 13:55:45",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2753",
+    "official_desk_name": "Dražební vyhláška elektronické dražby nedobrovolné č. 20200188",
+    "official_desk_date": "2020-04-07",
+    "official_desk_date_until": "2020-06-11",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška elektronické dražby nedobrovolné č. 20200188</strong></span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2020-04-07 14:21:35",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "2754",
+    "official_desk_name": "Dražební vyhláška elektronické dražby nedobrovolné č. 20200189",
+    "official_desk_date": "2020-04-07",
+    "official_desk_date_until": "2020-06-11",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška elektronické dražby nedobrovolné č. 20200189</strong></span></p>",
+    "category": null,
+    "created": "2020-04-07 14:26:51",
+    "category_name": "Dražby"
   }
 ]
