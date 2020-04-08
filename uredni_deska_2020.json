@@ -2684,7 +2684,7 @@
     "official_desk_name": "Oznámení o přerušení dodávky elektřiny",
     "official_desk_date": "2020-04-02",
     "official_desk_date_until": "2020-04-06",
-    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o přerušení dodávky elektřiny</strong></span></p>\n<p>&nbsp;</p>\n<p>Dodávka elektřiny bude přrušena pro odběrné místo:</p>\n<p>P7 Holešovice, Dělnická 1566/58 (VOST 8828 LIGHTHOUSE) dne <strong>6.4.2020 v době od 03:00 hod. do 05.00 hod.</strong></p>",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o přerušení dodávky elektřiny</strong></span></p>\n<p>&nbsp;</p>\n<p>Dodávka elektřiny bude přerušena pro odběrné místo:</p>\n<p>P7 Holešovice, Dělnická 1566/58 (VOST 8828 LIGHTHOUSE) dne <strong>6.4.2020 v době od 03:00 hod. do 05.00 hod.</strong></p>",
     "category": null,
     "created": "2020-04-02 12:48:50",
     "category_name": "Ostatní"
@@ -2848,5 +2848,15 @@
     "category": null,
     "created": "2020-04-08 14:09:24",
     "category_name": "Majetek"
+  },
+  {
+    "id": "2756",
+    "official_desk_name": "Oznámení o přerušení dodávky elektřiny",
+    "official_desk_date": "2020-04-08",
+    "official_desk_date_until": "2020-04-17",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o přerušení dodávky elektřiny</strong></span></p>\n<p>&nbsp;</p>\n<p>Dodávka elektřiny bude přerušena pro odběrné místo:</p>\n<p>P7 Holešovice, Dělnická 1566/58 - VOTS 8828 LIGHOUSE dne<strong> 17.4.2020 od 02:00 hod. do 05.00 hod.</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2020-04-08 14:57:59",
+    "category_name": "Ostatní"
   }
 ]
