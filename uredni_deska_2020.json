@@ -2948,5 +2948,25 @@
     "category": null,
     "created": "2020-04-15 14:50:44",
     "category_name": "Majetek"
+  },
+  {
+    "id": "2766",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Čechova, Keramická, Praha 7",
+    "official_desk_date": "2020-04-15",
+    "official_desk_date_until": "2020-06-01",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Čechova, Keramická, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu <strong>27.04. - 24.05. 2020</strong></p>",
+    "category": null,
+    "created": "2020-04-15 16:42:51",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2767",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace U Smaltovny 26 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-04-16",
+    "official_desk_date_until": "2020-05-04",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace U Smaltovny 26 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-04-15 16:51:46",
+    "category_name": "Doprava"
   }
 ]
