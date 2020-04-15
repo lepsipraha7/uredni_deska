@@ -2928,5 +2928,25 @@
     "category": null,
     "created": "2020-04-15 10:20:05",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2764",
+    "official_desk_name": "Oznámení a zveřejnění záměru na uzavření dodatku k nájemní smlouvě - Dělnická 2/194, P-7 - NBP č. 194/904",
+    "official_desk_date": "2020-04-15",
+    "official_desk_date_until": "2020-04-30",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění záměru na uzavření dodatku k nájemní smlouvě - Dělnická 2/194, P-7 - NBP č. 194/904</strong></span></p>",
+    "category": null,
+    "created": "2020-04-15 14:42:20",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2765",
+    "official_desk_name": "Oznámení a zveřejnění záměru na uzavření nájemní smlouvy - Dělnická 2/194, P-7 - NBP č. 194/902",
+    "official_desk_date": "2020-04-15",
+    "official_desk_date_until": "2020-04-30",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění záměru na uzavření nájemní smlouvy - Dělnická 2/194, P-7 - NBP č. 194/902</strong></span></p>",
+    "category": null,
+    "created": "2020-04-15 14:50:44",
+    "category_name": "Majetek"
   }
 ]
