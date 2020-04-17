@@ -2971,32 +2971,52 @@
   },
   {
     "id": "2768",
-    "official_desk_name": "Veřejná vyhláška - Příkaz (uznání vinným ze spáchání přestupku o pojištění odpovědnosti z provozu vozidla a uložení pokuty ve výši 5.000,- Kč)",
+    "official_desk_name": "Veřejná vyhláška - Příkaz č.j.: MČ P7 280726/2019/ODO/Zal - (uznání vinným ze spáchání přestupku o pojištění odpovědnosti z provozu vozidla a uložení pokuty ve výši 5.000,- Kč)",
     "official_desk_date": "2020-04-16",
     "official_desk_date_until": "2020-05-05",
-    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - Příkaz (uznání vinným ze spáchání přestupku o pojištění odpovědnosti z provozu vozidla a uložení pokuty ve výši 5.000,- Kč)</strong></span></p>",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - Příkaz č.j.: MČ P7 280726/2019/ODO/Zal - (uznání vinným ze spáchání přestupku o pojištění odpovědnosti z provozu vozidla a uložení pokuty ve výši 5.000,- Kč)</strong></span></p>",
     "category": null,
     "created": "2020-04-15 17:31:08",
     "category_name": "Doprava"
   },
   {
     "id": "2769",
-    "official_desk_name": "Veřejná vyhláška - Příkaz (uznání vinným ze spáchání přestupku o pojištění odpovědnosti z provozu vozidla a uložení pokuty ve výši 5.000,- Kč)",
+    "official_desk_name": "Veřejná vyhláška - Příkaz č.j.: MČ P7 046614/2020/ODO/Zal - (uznání vinným ze spáchání přestupku o pojištění odpovědnosti z provozu vozidla a uložení pokuty ve výši 5.000,- Kč)",
     "official_desk_date": "2020-04-17",
     "official_desk_date_until": "2020-05-04",
-    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - Příkaz (uznání vinným ze spáchání přestupku o pojištění odpovědnosti z provozu vozidla a uložení pokuty ve výši 5.000,- Kč)</strong></span></p>",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - Příkaz č.j.: MČ P7 046614/2020/ODO/Zal - (uznání vinným ze spáchání přestupku o pojištění odpovědnosti z provozu vozidla a uložení pokuty ve výši 5.000,- Kč)</strong></span></p>",
     "category": null,
     "created": "2020-04-17 09:40:50",
     "category_name": "Doprava"
   },
   {
     "id": "2770",
-    "official_desk_name": "Veřejná vyhláška - Příkaz (uznání vinným ze spáchání přestupku o pojištění odpovědnosti z provozu vozidla a uložení pokuty ve výši 5.000,- Kč)",
+    "official_desk_name": "Veřejná vyhláška - Příkaz č.j.: MČ P7 049205/2020/ODO/Zal - (uznání vinným ze spáchání přestupku o pojištění odpovědnosti z provozu vozidla a uložení pokuty ve výši 5.000,- Kč)",
     "official_desk_date": "2020-04-17",
     "official_desk_date_until": "2020-05-04",
-    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - Příkaz (uznání vinným ze spáchání přestupku o pojištění odpovědnosti z provozu vozidla a uložení pokuty ve výši 5.000,- Kč)</strong></span></p>",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Veřejná vyhláška - Příkaz č.j.: MČ P7 049205/2020/ODO/Zal - (uznání vinným ze spáchání přestupku o pojištění odpovědnosti z provozu vozidla a uložení pokuty ve výši 5.000,- Kč)</strong></span></p>",
     "category": null,
     "created": "2020-04-17 09:52:08",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2771",
+    "official_desk_name": "Usnesení - Dražební vyhláška - elektronická dražba nemovitých věcí (č.j.: 098 EX 02481/12-190)",
+    "official_desk_date": "2020-04-17",
+    "official_desk_date_until": "2020-05-20",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Usnesení - Dražební vyhláška - elektronická dražba nemovitých věcí (č.j.: 098 EX 02481/12-190)</strong></span></p>\n<p>&nbsp;</p>\n<p>Zahájení elektronické dražby:  dne 20.05.2020 v 10:00 hod.</p>\n<p>Ukončení elektronické dražby:  dne 20.05.2020 ve 14:00 hod.</p>",
+    "category": null,
+    "created": "2020-04-17 10:37:56",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "2772",
+    "official_desk_name": "Oznámení - zahájení územního řízení - Zřízení komunikačních přípojek společnosti Pe3ny Net s.r.o. v lokalitě Holešovice Dělnická, Praha 7",
+    "official_desk_date": "2020-04-17",
+    "official_desk_date_until": "2020-05-04",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení - zahájení územního řízení - Zřízení komunikačních přípojek společnosti Pe3ny Net s.r.o. v lokalitě Holešovice Dělnická, Praha 7</strong></span></p>",
+    "category": null,
+    "created": "2020-04-17 10:54:25",
+    "category_name": "Stavební úřad"
   }
 ]
