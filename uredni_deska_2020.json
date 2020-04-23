@@ -1613,7 +1613,7 @@
     "id": "2631",
     "official_desk_name": "Usnesení - Dražební vyhláška - dražba movitých věcí (č.j.: 149 EX 6025/19-18)",
     "official_desk_date": "2020-02-18",
-    "official_desk_date_until": "2020-04-29",
+    "official_desk_date_until": "2020-07-16",
     "description": "<p><span style=\"text-decoration: underline;\"><strong>Usnesení - Dražební vyhláška - dražba movitých věcí (č.j.: 149 EX 6025/19-18)</strong></span></p>\n<p>&nbsp;</p>\n<p><strong>Dražba se koná dne</strong>:  30.03.2020 od 09.00 hodin na adrese Zenklova 293/122, Praha 8</p>\n<p><strong>Movité věci určené k dražbě je možno si prohlédnout dne:</strong>  30.03.2020 na adrese Zenklova 293/122, Praha 8, od 08.45 hod. do 09.00 hodin</p>",
     "category": null,
     "created": "2020-02-18 09:33:38",
@@ -3138,5 +3138,15 @@
     "category": null,
     "created": "2020-04-23 11:02:41",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2785",
+    "official_desk_name": "Usnesení - odročení dražby movitých věcí oznámenou dražební vyhláškou ze dne 17.2.2020, č.j. 149 EX 6025/19-18",
+    "official_desk_date": "2020-04-29",
+    "official_desk_date_until": "2020-07-16",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Usnesení - odročení dražby movitých věcí oznámenou dražební vyhláškou ze dne 17.2.2020, č.j. 149 EX 6025/19-18</strong></span></p>\n<p>&nbsp;</p>\n<p>I.<strong> Dražba</strong> (dražební rok) movitých věcí oznámená dražební vyhláškou ze dne 17.2.2020, č.j. 149 EX 6025/19-18, odročená usnesením č.j. 149 EX 6025/19-19, <strong>se odročuje na 16.7.2020 od 09:00 na adrese Zenklova 293/122, Praha 8.</strong></p>\n<p><br />\nII. V ostatním zůstává dražební vyhláška ze dne 17.2.2020, č.j. 149 EX 6025/19-18, nezměněna.</p>",
+    "category": null,
+    "created": "2020-04-23 12:30:37",
+    "category_name": "Dražby"
   }
 ]
