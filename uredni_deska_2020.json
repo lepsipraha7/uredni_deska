@@ -3188,5 +3188,15 @@
     "category": null,
     "created": "2020-04-24 11:42:26",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2790",
+    "official_desk_name": "Oznámení o přerušení dodávky elektřiny",
+    "official_desk_date": "2020-04-24",
+    "official_desk_date_until": "2020-05-22",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o přerušení dodávky elektřiny<br />\n</strong></span></p>\n<p>&nbsp;</p>\n<p>Dodávka elektřiny bude přerušena pro odběrné místo:</p>\n<p><strong>ul Pod Havránkou: čp. 147, č.parc. 1253/16 - </strong><strong>dne 22.5.2020 od 08:00 hod. do 16.00 hod.</strong></p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2020-04-24 12:00:48",
+    "category_name": "Ostatní"
   }
 ]
