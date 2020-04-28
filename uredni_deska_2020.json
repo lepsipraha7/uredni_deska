@@ -3218,5 +3218,55 @@
     "category": null,
     "created": "2020-04-27 17:41:00",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2793",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Janovského 18 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-04-28",
+    "official_desk_date_until": "2020-05-14",
+    "description": "<p><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Janovského 18 z důvodu zřízení vyhrazeného stání</strong></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-04-28 10:57:12",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2794",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Schnirchova 13, Praha 7",
+    "official_desk_date": "2020-04-28",
+    "official_desk_date_until": "2020-05-14",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Schnirchova 13, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>06.05. - 04.06.2020</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2020-04-28 11:15:15",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2795",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Jateční 15 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-04-28",
+    "official_desk_date_until": "2020-05-14",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Jateční 15 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování.</p>",
+    "category": null,
+    "created": "2020-04-28 11:20:34",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2796",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Bubenské nábřeží 12 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-04-28",
+    "official_desk_date_until": "2020-05-14",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Bubenské nábřeží 12 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Prodloužení stávajícího vyhrazeného parkování</p>",
+    "category": null,
+    "created": "2020-04-28 11:27:57",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2797",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemních komunikacích (křížení komunikace NN7106 s komunikací pro pěší), Praha - Troja",
+    "official_desk_date": "2020-04-28",
+    "official_desk_date_until": "2020-05-14",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemních komunikacích (křížení komunikace NN7106 s komunikací pro pěší), Praha - Troja</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení bude provedena v termínu <strong>od 02. 06. 2020 trvale.</strong></p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2020-04-28 11:39:58",
+    "category_name": "Doprava"
   }
 ]
