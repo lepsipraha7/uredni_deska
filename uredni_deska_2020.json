@@ -3278,5 +3278,15 @@
     "category": null,
     "created": "2020-04-28 12:08:55",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2799",
+    "official_desk_name": "Hlavní město Praha obnovuje platnost zón placeného stání od 11. května 2020",
+    "official_desk_date": "2020-04-28",
+    "official_desk_date_until": "2020-05-28",
+    "description": "<p style=\"text-align: justify;\">Vláda ČR na zasedání dne 27. 4. 2020 rozhodla, že s účinností od 28. 4. 2020 bude zrušeno krizové opatření, kterým vláda zakázala obcím po dobu trvání nouzového stavu vybírat poplatky za parkování na místních komunikacích, tzv. zónách placeného stání (ZPS). Na základě nařízení primátora hlavního města Prahy bude v hlavním městě provoz ZPS plně obnoven (modrá, fialová a oranžová zóna) v pondělí <strong>11. května 2020 v 8:00 hodin.</strong></p>\n<p style=\"text-align: justify;\">Pro držitele parkovacích oprávnění (platných v době přerušení ZPS) dojde k automatickému prodloužení platnosti oprávnění o dobu, po kterou nemohlo být z důvodu přerušení ZPS využíváno.</p>",
+    "category": null,
+    "created": "2020-04-28 17:17:00",
+    "category_name": "Doprava"
   }
 ]
