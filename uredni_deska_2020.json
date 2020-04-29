@@ -3288,5 +3288,15 @@
     "category": null,
     "created": "2020-04-28 17:17:00",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2800",
+    "official_desk_name": "Dražební vyhláška - elektronická dražba movitých věcí, č.j.: 152 EX 6/20-541",
+    "official_desk_date": "2020-04-29",
+    "official_desk_date_until": "2020-05-29",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška - elektronická dražba movitých věcí, č.j.: 152 EX 6/20-541</strong></span></p>\n<p>&nbsp;</p>\n<p><strong>Zahájení elektronické dražby: </strong><strong>Dne 29.5.2020 v 14:00 hod.</strong></p>\n<p><strong>Ukončení elektronické dražby: Dražba se koná, dokud dražitelé činí podání, nejméně však do 29.5.2020 do 15.00 hod.</strong></p>",
+    "category": null,
+    "created": "2020-04-29 10:14:09",
+    "category_name": "Dražby"
   }
 ]
