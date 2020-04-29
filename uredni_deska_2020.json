@@ -3318,5 +3318,35 @@
     "category": null,
     "created": "2020-04-29 16:52:23",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2803",
+    "official_desk_name": "Oznámení a zveřejnění záměru na uzavření dodatku k nájemní smlouvě - Dělnická 1044/34, Praha 7 - NBP č. 1044/103",
+    "official_desk_date": "2020-04-29",
+    "official_desk_date_until": "2020-05-15",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění záměru na uzavření dodatku k nájemní smlouvě - Dělnická 1044/34, Praha 7 - NBP č. 1044/103</strong></span></p>",
+    "category": null,
+    "created": "2020-04-29 17:07:46",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2804",
+    "official_desk_name": "Oznámení a zveřejnění záměru na uzavření dodatku k nájemní smlouvě - Veverkova 1408/14, Praha 7 - NBP č. 1408/102",
+    "official_desk_date": "2020-04-29",
+    "official_desk_date_until": "2020-05-15",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění záměru na uzavření dodatku k nájemní smlouvě - Veverkova 1408/14, Praha 7 - NBP č. 1408/102</strong></span></p>",
+    "category": null,
+    "created": "2020-04-29 17:21:06",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2805",
+    "official_desk_name": "Oznámení a zveřejnění záměru na uzavření nové nájemní smlouvy - Milady Horákové 83/384, Praha 7 - NBP č. 384/102",
+    "official_desk_date": "2020-04-29",
+    "official_desk_date_until": "2020-05-15",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění záměru na uzavření nové nájemní smlouvy - Milady Horákové 83/384, Praha 7 - NBP č. 384/102</strong></span></p>",
+    "category": null,
+    "created": "2020-04-29 17:35:28",
+    "category_name": "Majetek"
   }
 ]
