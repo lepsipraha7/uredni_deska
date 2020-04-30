@@ -3368,5 +3368,25 @@
     "category": null,
     "created": "2020-04-30 10:54:02",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2808",
+    "official_desk_name": "Oznámení o zahájení stavebního řízení - stavba  Prague Marina 2 (budova I.B.1) Praha, Holešovice, V Přístavu",
+    "official_desk_date": "2020-04-30",
+    "official_desk_date_until": "2020-05-18",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o zahájení stavebního řízení - stavba Prague Marina 2 (budova I.B.1) Praha, Holešovice, V Přístavu</strong></span></p>",
+    "category": null,
+    "created": "2020-04-30 11:26:10",
+    "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2809",
+    "official_desk_name": "Rozhodnutí - povolení změny stavby před jejím dokončením - Ovenecká 78/33, Praha 7, Bubeneč",
+    "official_desk_date": "2020-04-30",
+    "official_desk_date_until": "2020-05-18",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Rozhodnutí - povolení změny stavby před jejím dokončením - Ovenecká 78/33, Praha 7, Bubeneč</strong></span></p>\n<p>&nbsp;</p>\n<p>Změna stavby před jejím dokončením spočívá <strong>ve změně termínu dokončení stavby.</strong></p>\n<p>Stavba bude dokončena <strong>do 31.12.2021</strong>.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "category": null,
+    "created": "2020-04-30 11:39:15",
+    "category_name": "Stavební úřad"
   }
 ]
