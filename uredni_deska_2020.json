@@ -3488,5 +3488,15 @@
     "category": null,
     "created": "2020-05-06 16:21:19",
     "category_name": "Doprava"
+  },
+  {
+    "id": "2820",
+    "official_desk_name": "Rozpočtová opatření - duben 2020",
+    "official_desk_date": "2020-05-07",
+    "official_desk_date_until": "2021-03-31",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Rozpočtová opatření - duben 2020</strong></span></p>",
+    "category": null,
+    "created": "2020-05-06 16:59:21",
+    "category_name": "Finance"
   }
 ]
