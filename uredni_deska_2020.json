@@ -3764,9 +3764,49 @@
     "official_desk_name": "Oznámení o zahájení společného řízení a pozvání k ústnímu jednání - Půdní vestavba a nástavba, Heřmanova 846/51, Praha 7",
     "official_desk_date": "2020-05-21",
     "official_desk_date_until": "2020-06-08",
-    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o zahájení společného řízení a pozvání k ústnímu jednání - Půdní vestavba a nástavba, Heřmanova 846/51, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Stavební úřad Úřadu městské části Praha 7 oznamuje zahájení společného řízení a nařizuje ústní jednání spojené s ohledáním na místě na den</p>\n<p><strong>26. června 2020 (pátek) v 9.00 hodin.</strong></p>\n<p><strong>Místo konání:</strong> na místě stavby, sraz účastníků před vstupem do objektu Heřmanova 846/51 v Praze 7</p>",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o zahájení společného řízení a pozvání k ústnímu jednání - Půdní vestavba a nástavba, Heřmanova 846/51, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Stavební úřad Úřadu městské části Praha 7 oznamuje zahájení společného řízení a nařizuje ústní jednání spojené s ohledáním na místě na den</p>\n<p><strong>26. června 2020 (pátek) v 9.00 hodin.</strong></p>\n<p><strong>Místo konání:</strong> na místě stavby; sraz účastníků před vstupem do objektu Heřmanova 846/51 v Praze 7</p>",
     "category": null,
     "created": "2020-05-21 11:58:15",
     "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2848",
+    "official_desk_name": "Oznámení o zahájení společného řízení a pozvání k ústnímu jednání - Rodinný dům Troja, Praha 7",
+    "official_desk_date": "2020-05-21",
+    "official_desk_date_until": "2020-06-08",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení o zahájení společného řízení a pozvání k ústnímu jednání - Rodinný dům Troja, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Stavební úřad Úřadu městské části Praha 7 oznamuje zahájení společného řízení a nařizuje ústní jednání spojené s ohledáním na místě na den</p>\n<p><strong>25. června 2020 (pátek) v 8.30 hodin.</strong></p>\n<p><strong>Místo konání:</strong> na místě stavby; sraz účastníků je na chodníku u křižovatky ulic Jiřího Jandy a K Bohnicím.</p>",
+    "category": null,
+    "created": "2020-05-21 13:12:21",
+    "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2849",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemních komunikacích Šimáčkova 10, Praha 7",
+    "official_desk_date": "2020-05-21",
+    "official_desk_date_until": "2020-06-08",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemních komunikacích Šimáčkova 10, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>08.06. - 22.08.2020</strong></p>",
+    "category": null,
+    "created": "2020-05-21 13:28:11",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2850",
+    "official_desk_name": "Opatření obecné povahy - stanovení místní a přechodné úpravy provozu na pozemní komunikaci - U Smaltovny 16, Praha 7",
+    "official_desk_date": "2020-05-21",
+    "official_desk_date_until": "2020-06-08",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení místní a přechodné úpravy provozu na pozemní komunikaci - U Smaltovny 16, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>15.06.2020</strong></p>",
+    "category": null,
+    "created": "2020-05-21 13:35:08",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2851",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Vrbenského, Praha 7",
+    "official_desk_date": "2020-05-21",
+    "official_desk_date_until": "2020-06-08",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Vrbenského, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu  <strong>01.06. - 10.06.2020</strong></p>",
+    "category": null,
+    "created": "2020-05-21 13:48:18",
+    "category_name": "Doprava"
   }
 ]
