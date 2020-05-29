@@ -3978,5 +3978,25 @@
     "category": null,
     "created": "2020-05-29 12:54:40",
     "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2869",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Kostelní, Praha 7",
+    "official_desk_date": "2020-05-29",
+    "official_desk_date_until": "2020-06-15",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Kostelní, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu 10.06 - 11.08.2020</p>",
+    "category": null,
+    "created": "2020-05-29 13:03:36",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2870",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Strossmayerovo náměstí, Praha 7",
+    "official_desk_date": "2020-05-29",
+    "official_desk_date_until": "2020-06-15",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Strossmayerovo náměstí, Praha 7</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace dopravního značení a zařízení bude provedena v termínu 11.06.2020</p>",
+    "category": null,
+    "created": "2020-05-29 13:10:41",
+    "category_name": "Doprava"
   }
 ]
