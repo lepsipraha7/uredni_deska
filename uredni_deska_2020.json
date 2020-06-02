@@ -4018,5 +4018,25 @@
     "category": null,
     "created": "2020-06-01 17:43:58",
     "category_name": "Dražby"
+  },
+  {
+    "id": "2873",
+    "official_desk_name": "Oznámení a zveřejnění záměru soutěže č. OMA-N-024-2020 - pronájem nebytové jednotky",
+    "official_desk_date": "2020-06-02",
+    "official_desk_date_until": "2021-06-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění záměru soutěže č. OMA-N-024-2020 - pronájem nebytové jednotky</strong></span></p>",
+    "category": null,
+    "created": "2020-06-02 09:56:47",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2874",
+    "official_desk_name": "Oznámení a zveřejnění záměru soutěže č. OMA-N-023-2020 - pronájem nebytové jednotky",
+    "official_desk_date": "2020-06-02",
+    "official_desk_date_until": "2021-06-02",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění záměru soutěže č. OMA-N-023-2020 - pronájem nebytové jednotky</strong></span></p>",
+    "category": null,
+    "created": "2020-06-02 10:09:21",
+    "category_name": "Majetek"
   }
 ]
