@@ -4068,5 +4068,35 @@
     "category": null,
     "created": "2020-06-03 07:21:27",
     "category_name": "Dražby"
+  },
+  {
+    "id": "2878",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Strojnická 3 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-06-03",
+    "official_desk_date_until": "2020-06-19",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Strojnická 3 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace a umístění dopravního značení bude provedeno tak, aby nebránilo provádění údržby komunikace.</p>",
+    "category": null,
+    "created": "2020-06-03 13:20:52",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2879",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Malá Plynární 12 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-06-03",
+    "official_desk_date_until": "2020-06-19",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - zvláštní užívání místní komunikace Malá Plynární 12 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>&nbsp;</p>\n<p>Instalace a umístění dopravního značení bude provedeno tak, aby nebránilo provádění údržby komunikace.</p>",
+    "category": null,
+    "created": "2020-06-03 13:29:38",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2880",
+    "official_desk_name": "Oznámení a zveřejnění záměru na uzavření dodatku č. 2 k nájemní smlouvě na pronájem dvou bytů a třinácti ubytovacích jednotek v budově Za Papírnou 7/144, Praha 7.",
+    "official_desk_date": "2020-06-03",
+    "official_desk_date_until": "2020-06-18",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění záměru na uzavření dodatku č. 2 k nájemní smlouvě na pronájem dvou bytů a třinácti ubytovacích jednotek v budově Za Papírnou 7/144, Praha 7.</strong></span></p>",
+    "category": null,
+    "created": "2020-06-03 13:50:05",
+    "category_name": "Majetek"
   }
 ]
