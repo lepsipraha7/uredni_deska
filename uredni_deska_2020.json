@@ -4098,5 +4098,25 @@
     "category": null,
     "created": "2020-06-03 13:50:05",
     "category_name": "Majetek"
+  },
+  {
+    "id": "2881",
+    "official_desk_name": "Oznámení a zveřejnění záměru na uzavření smlouvy o výpůjčce vnitrobloku na adrese U Průhonu 17a/139, Praha 7",
+    "official_desk_date": "2020-06-03",
+    "official_desk_date_until": "2020-06-18",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Oznámení a zveřejnění záměru na uzavření smlouvy o výpůjčce vnitrobloku na adrese U Průhonu 17a/139, Praha 7</strong></span></p>",
+    "category": null,
+    "created": "2020-06-03 14:02:46",
+    "category_name": "Majetek"
+  },
+  {
+    "id": "2882",
+    "official_desk_name": "Rozpočtová opatření - květen 2020",
+    "official_desk_date": "2020-06-03",
+    "official_desk_date_until": "2021-03-31",
+    "description": "<p>                                                                                  <span style=\"text-decoration: underline;\"><strong> Rozpočtová opatření - květen 2020</strong></span></p>",
+    "category": null,
+    "created": "2020-06-03 14:12:07",
+    "category_name": "Finance"
   }
 ]
