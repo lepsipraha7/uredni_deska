@@ -4288,5 +4288,25 @@
     "category": null,
     "created": "2020-06-08 10:18:40",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2900",
+    "official_desk_name": "Dražební vyhláška - elektronická dražba nemovitých věcí, č.j.: 099 EX 593/17-301",
+    "official_desk_date": "2020-06-15",
+    "official_desk_date_until": "2020-08-12",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška - elektronická dražba nemovitých věcí, č.j.: 099 EX 593/17-301</strong></span></p>\n<p>&nbsp;</p>\n<p>Zahájení elektronické dražby: dne <strong>5.8.2020 od 12.00 hod.</strong></p>\n<p>Ukončení elektronické dražby: nejdříve dne <strong>5.8.2020 ve 12:30 hod.</strong></p>",
+    "category": null,
+    "created": "2020-06-08 15:12:11",
+    "category_name": "Dražby"
+  },
+  {
+    "id": "2901",
+    "official_desk_name": "Dražební vyhláška - elektronická dražba nemovitých věcí, č.j.: 099 EX 593/17-296",
+    "official_desk_date": "2020-06-15",
+    "official_desk_date_until": "2020-08-12",
+    "description": "<p><span style=\"text-decoration: underline;\"><strong>Dražební vyhláška - elektronická dražba nemovitých věcí, č.j.: 099 EX 593/17-296</strong></span></p>\n<p>&nbsp;</p>\n<p>Zahájení elektronické dražby: dne<strong> 5.8.2020 od 14.00 hod.</strong></p>\n<p>Ukončení elektronické dražby: nejdříve dne <strong>5.8.2020 ve 14:30 hod.</strong></p>",
+    "category": null,
+    "created": "2020-06-08 15:14:25",
+    "category_name": "Dražby"
   }
 ]
