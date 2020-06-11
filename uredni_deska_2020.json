@@ -4418,5 +4418,45 @@
     "category": null,
     "created": "2020-06-10 15:55:29",
     "category_name": "Ostatní"
+  },
+  {
+    "id": "2913",
+    "official_desk_name": "Oznámení o zahájení řízení o změně stavby před jejím dokončením - Bytový dům, Pplk. Sochora 4, Praha 7 - půdní vestavba",
+    "official_desk_date": "2020-06-11",
+    "official_desk_date_until": "2020-06-29",
+    "description": "<p><strong>Oznámení o zahájení řízení o změně stavby před jejím dokončením</strong></p>\n<p>na stavbu v projektové dokumentaci nazvanou:</p>\n<p><span style=\"text-decoration: underline;\"><strong> Bytový dům, Pplk. Sochora, Praha 7 - půdní vestavba, Praha 7, Holešovice č.p. 1391, Pplk. Sochora 4</strong></span></p>",
+    "category": null,
+    "created": "2020-06-11 11:31:54",
+    "category_name": "Stavební úřad"
+  },
+  {
+    "id": "2914",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace Dobrovského 29 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-06-11",
+    "official_desk_date_until": "2020-06-29",
+    "description": "<p>                         <span style=\"text-decoration: underline;\"><strong> Opatření obecné povahy - zvláštní užívání místní komunikace Dobrovského 29 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>         <strong>   důvod:  prodloužení stávajícího vyhrazeného parkování</strong></p>",
+    "category": null,
+    "created": "2020-06-11 11:42:25",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2915",
+    "official_desk_name": "Opatření obecné povahy - zvláštní užívání místní komunikace U Smaltovny 25 z důvodu zřízení vyhrazeného stání",
+    "official_desk_date": "2020-06-11",
+    "official_desk_date_until": "2020-06-29",
+    "description": "<p>                <span style=\"text-decoration: underline;\"><strong>   Opatření obecné povahy - zvláštní užívání místní komunikace U Smaltovny 25 z důvodu zřízení vyhrazeného stání</strong></span></p>\n<p>         <strong>   důvod:  prodloužení stávajícího vyhrazeného parkování</strong></p>",
+    "category": null,
+    "created": "2020-06-11 11:50:12",
+    "category_name": "Doprava"
+  },
+  {
+    "id": "2916",
+    "official_desk_name": "Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Komunardů, U Pruhonu",
+    "official_desk_date": "2020-06-11",
+    "official_desk_date_until": "2020-06-29",
+    "description": "<p>                   <span style=\"text-decoration: underline;\"><strong>Opatření obecné povahy - stanovení přechodné úpravy provozu na pozemní komunikaci Komunardů, U Pruhonu</strong></span></p>\n<p>            <strong> Instalace dopravního značení a zřízení bude provedena v termínu 04.07.2020-09.07.2020</strong></p>",
+    "category": null,
+    "created": "2020-06-11 12:00:18",
+    "category_name": "Doprava"
   }
 ]
